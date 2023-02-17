@@ -1,0 +1,20 @@
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torch/cuda/__init__.py:497: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+==> Preparing data
+    # train data:  2800
+    # labeled train data:  2888
+    # test data:  864
+    # val x data: 1300
+    # val p data: 1188
+Traceback (most recent call last):
+  File "run_GNN.py", line 116, in <module>
+    main(args)
+  File "run_GNN.py", line 113, in main
+    run_vpu(config, loaders, NetworkPhi)
+  File "/fast/beidi/vpu-tilt/vpu_GNN.py", line 64, in run_vpu
+    phi_loss, var_loss, reg_loss, phi_p_mean, phi_x_mean = train(config, model_phi, opt_phi, p_loader, x_loader)
+  File "/fast/beidi/vpu-tilt/vpu_GNN.py", line 153, in train
+    var_loss = torch.logsumexp(log_phi_x, dim=0) - math.log(len(log_phi_x)) - 1 * torch.mean(log_phi_p)
+ValueError: math domain error

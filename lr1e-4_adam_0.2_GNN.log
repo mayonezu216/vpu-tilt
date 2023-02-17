@@ -1,0 +1,42 @@
+/data/miniconda3/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+==> Preparing data
+    # train data:  28000
+    # labeled train data:  28496
+    # test data:  864
+    # val x data: 13000
+    # val p data: 13000
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 92
+Number of test graphs: 42
+Train Epoch: 0	 phi_loss: -0.2008   var_loss: -0.2150   reg_loss: 0.4735   Test accuracy: 0.7106   Val var loss: -0.5707
+Confusion Matrix:
+[[23  0]
+ [ 8 11]]
+GNN - Epoch: 000, Train Acc: 0.2826, Train Loss: 0.6976, Test Acc: 0.8095, Test Loss: 0.6586
+Learning rate changes to 5e-05
+Train Epoch: 1	 phi_loss: -0.5917   var_loss: -0.6351   reg_loss: 1.4460   Test accuracy: 0.7940   Val var loss: -0.7014
+Confusion Matrix:
+[[20  3]
+ [ 3 16]]
+GNN - Epoch: 001, Train Acc: 0.7609, Train Loss: 0.6438, Test Acc: 0.8571, Test Loss: 0.6192
+Train Epoch: 2	 phi_loss: -0.6834   var_loss: -0.7274   reg_loss: 1.4682   Test accuracy: 0.8241   Val var loss: -0.7758
+Confusion Matrix:
+[[21  2]
+ [ 3 16]]
+GNN - Epoch: 002, Train Acc: 0.7609, Train Loss: 0.6426, Test Acc: 0.8810, Test Loss: 0.5828
+Learning rate changes to 2.5e-05
+Train Epoch: 3	 phi_loss: -0.7216   var_loss: -0.7569   reg_loss: 1.1742   Test accuracy: 0.8160   Val var loss: -0.8015
+Confusion Matrix:
+[[21  2]
+ [ 3 16]]
+GNN - Epoch: 003, Train Acc: 0.7391, Train Loss: 0.5913, Test Acc: 0.8810, Test Loss: 0.5487
+Train Epoch: 4	 phi_loss: -0.7221   var_loss: -0.7669   reg_loss: 1.4920   Test accuracy: 0.8079   Val var loss: -0.8189
+Confusion Matrix:
+[[21  2]
+ [ 4 15]]
+GNN - Epoch: 004, Train Acc: 0.7717, Train Loss: 0.5649, Test Acc: 0.8571, Test Loss: 0.5142
+Early stopping at 4th epoch, test AUC : 0.9064, test acc: 0.8079

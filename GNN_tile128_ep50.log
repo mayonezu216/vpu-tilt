@@ -1,0 +1,3582 @@
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+==> Preparing data
+    # train data:  2800
+    # labeled train data:  2888
+    # test data:  864
+    # val x data: 1300
+    # val p data: 1188
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torch/cuda/__init__.py:497: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+Train Epoch: 0	 phi_loss: -0.0666   var_loss: -0.0841   reg_loss: 0.5834   Test accuracy: 0.5069   Val var loss: -0.1270
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15806
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD22-15806, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-24117
+Predicting slide BD21-24117, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (88, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (99, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (54, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (35, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (92, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (100, 128)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+Epoch: 000, Train Acc: 0.7018, Train Loss: 0.6856, Test Acc: 0.4384, Test Loss: 0.6821
+Confusion Matrix:
+[[37  4]
+ [21 11]]
+Epoch: 001, Train Acc: 0.4912, Train Loss: 0.6304, Test Acc: 0.6575, Test Loss: 0.6321
+Confusion Matrix:
+[[37  4]
+ [18 14]]
+Epoch: 002, Train Acc: 0.7368, Train Loss: 0.5814, Test Acc: 0.6986, Test Loss: 0.6148
+Confusion Matrix:
+[[32  9]
+ [15 17]]
+Epoch: 003, Train Acc: 0.7544, Train Loss: 0.5271, Test Acc: 0.6712, Test Loss: 0.6184
+Confusion Matrix:
+[[37  4]
+ [21 11]]
+Epoch: 004, Train Acc: 0.7368, Train Loss: 0.4905, Test Acc: 0.6575, Test Loss: 0.6683
+Confusion Matrix:
+[[33  8]
+ [15 17]]
+Epoch: 005, Train Acc: 0.7544, Train Loss: 0.4765, Test Acc: 0.6849, Test Loss: 0.6807
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 006, Train Acc: 0.7544, Train Loss: 0.4744, Test Acc: 0.6712, Test Loss: 0.7250
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 007, Train Acc: 0.7719, Train Loss: 0.4805, Test Acc: 0.6849, Test Loss: 0.7739
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 008, Train Acc: 0.7544, Train Loss: 0.4973, Test Acc: 0.6712, Test Loss: 0.7446
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 009, Train Acc: 0.7544, Train Loss: 0.4905, Test Acc: 0.6712, Test Loss: 0.7392
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 010, Train Acc: 0.7544, Train Loss: 0.4791, Test Acc: 0.7123, Test Loss: 0.7275
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 011, Train Acc: 0.7719, Train Loss: 0.4671, Test Acc: 0.6712, Test Loss: 0.6822
+Confusion Matrix:
+[[33  8]
+ [15 17]]
+Epoch: 012, Train Acc: 0.7368, Train Loss: 0.4587, Test Acc: 0.6849, Test Loss: 0.6566
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 013, Train Acc: 0.7544, Train Loss: 0.4744, Test Acc: 0.6712, Test Loss: 0.6476
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 014, Train Acc: 0.7544, Train Loss: 0.4737, Test Acc: 0.6849, Test Loss: 0.6434
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 015, Train Acc: 0.7544, Train Loss: 0.4687, Test Acc: 0.6849, Test Loss: 0.6329
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 016, Train Acc: 0.7368, Train Loss: 0.4722, Test Acc: 0.6712, Test Loss: 0.6277
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 017, Train Acc: 0.7368, Train Loss: 0.4815, Test Acc: 0.6712, Test Loss: 0.6283
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 018, Train Acc: 0.7544, Train Loss: 0.4716, Test Acc: 0.6712, Test Loss: 0.6339
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 019, Train Acc: 0.7544, Train Loss: 0.4713, Test Acc: 0.6986, Test Loss: 0.6462
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 020, Train Acc: 0.7544, Train Loss: 0.4570, Test Acc: 0.6849, Test Loss: 0.6535
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 021, Train Acc: 0.7719, Train Loss: 0.4673, Test Acc: 0.6712, Test Loss: 0.6596
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 022, Train Acc: 0.7544, Train Loss: 0.4756, Test Acc: 0.6712, Test Loss: 0.6703
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 023, Train Acc: 0.7544, Train Loss: 0.4654, Test Acc: 0.6712, Test Loss: 0.6889
+Confusion Matrix:
+[[35  6]
+ [16 16]]
+Epoch: 024, Train Acc: 0.7719, Train Loss: 0.4572, Test Acc: 0.6986, Test Loss: 0.7056
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 025, Train Acc: 0.7544, Train Loss: 0.4572, Test Acc: 0.6712, Test Loss: 0.6957
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 026, Train Acc: 0.7719, Train Loss: 0.4486, Test Acc: 0.6712, Test Loss: 0.6986
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 027, Train Acc: 0.7368, Train Loss: 0.4668, Test Acc: 0.6849, Test Loss: 0.7058
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 028, Train Acc: 0.7368, Train Loss: 0.4681, Test Acc: 0.6849, Test Loss: 0.6977
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 029, Train Acc: 0.7193, Train Loss: 0.4619, Test Acc: 0.6712, Test Loss: 0.6803
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 030, Train Acc: 0.7368, Train Loss: 0.4760, Test Acc: 0.6712, Test Loss: 0.6797
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 031, Train Acc: 0.7719, Train Loss: 0.4731, Test Acc: 0.6712, Test Loss: 0.6795
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 032, Train Acc: 0.7544, Train Loss: 0.4726, Test Acc: 0.6712, Test Loss: 0.6800
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 033, Train Acc: 0.7368, Train Loss: 0.4677, Test Acc: 0.6712, Test Loss: 0.6808
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 034, Train Acc: 0.7544, Train Loss: 0.4768, Test Acc: 0.6849, Test Loss: 0.6816
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 035, Train Acc: 0.7368, Train Loss: 0.4702, Test Acc: 0.6849, Test Loss: 0.6823
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 036, Train Acc: 0.7368, Train Loss: 0.4538, Test Acc: 0.6849, Test Loss: 0.6818
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 037, Train Acc: 0.7368, Train Loss: 0.4580, Test Acc: 0.6849, Test Loss: 0.6801
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 038, Train Acc: 0.7544, Train Loss: 0.4684, Test Acc: 0.6849, Test Loss: 0.6770
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 039, Train Acc: 0.7368, Train Loss: 0.4856, Test Acc: 0.6849, Test Loss: 0.6738
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 040, Train Acc: 0.7544, Train Loss: 0.4612, Test Acc: 0.6712, Test Loss: 0.6709
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 041, Train Acc: 0.7193, Train Loss: 0.4737, Test Acc: 0.6712, Test Loss: 0.6683
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 042, Train Acc: 0.7544, Train Loss: 0.4650, Test Acc: 0.6712, Test Loss: 0.6664
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 043, Train Acc: 0.7368, Train Loss: 0.4692, Test Acc: 0.6712, Test Loss: 0.6653
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 044, Train Acc: 0.7719, Train Loss: 0.4647, Test Acc: 0.6712, Test Loss: 0.6648
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 045, Train Acc: 0.7544, Train Loss: 0.4669, Test Acc: 0.6712, Test Loss: 0.6652
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 046, Train Acc: 0.7193, Train Loss: 0.4622, Test Acc: 0.6712, Test Loss: 0.6655
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 047, Train Acc: 0.7193, Train Loss: 0.4643, Test Acc: 0.6849, Test Loss: 0.6659
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 048, Train Acc: 0.7193, Train Loss: 0.4770, Test Acc: 0.6849, Test Loss: 0.6662
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 049, Train Acc: 0.7544, Train Loss: 0.4669, Test Acc: 0.6849, Test Loss: 0.6660
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 050, Train Acc: 0.7368, Train Loss: 0.4601, Test Acc: 0.6849, Test Loss: 0.6654
+Confusion Matrix:
+[[34  7]
+ [16 16]]
+Epoch: 051, Train Acc: 0.7368, Train Loss: 0.4631, Test Acc: 0.6849, Test Loss: 0.6643
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 052, Train Acc: 0.7719, Train Loss: 0.4643, Test Acc: 0.6712, Test Loss: 0.6634
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 053, Train Acc: 0.7368, Train Loss: 0.4633, Test Acc: 0.6712, Test Loss: 0.6627
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 054, Train Acc: 0.7719, Train Loss: 0.4585, Test Acc: 0.6712, Test Loss: 0.6626
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 055, Train Acc: 0.7544, Train Loss: 0.4576, Test Acc: 0.6712, Test Loss: 0.6626
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 056, Train Acc: 0.7544, Train Loss: 0.4455, Test Acc: 0.6712, Test Loss: 0.6630
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 057, Train Acc: 0.7368, Train Loss: 0.4655, Test Acc: 0.6712, Test Loss: 0.6636
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 058, Train Acc: 0.7544, Train Loss: 0.4693, Test Acc: 0.6712, Test Loss: 0.6645
+Confusion Matrix:
+[[33  8]
+ [16 16]]
+Epoch: 059, Train Acc: 0.7368, Train Loss: 0.4681, Test Acc: 0.6712, Test Loss: 0.6656
+Learning rate changes to 5e-05
+Train Epoch: 1	 phi_loss: -0.2832   var_loss: -0.3107   reg_loss: 0.9139   Test accuracy: 0.7338   Val var loss: -0.2713
+Train Epoch: 2	 phi_loss: -0.4042   var_loss: -0.4375   reg_loss: 1.1102   Test accuracy: 0.6053   Val var loss: -0.4606
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15806
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD22-15806, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-24117
+Predicting slide BD21-24117, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (88, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (99, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (54, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (35, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (92, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (100, 128)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+Epoch: 000, Train Acc: 0.5439, Train Loss: 0.6867, Test Acc: 0.4384, Test Loss: 0.6615
+Confusion Matrix:
+[[38  3]
+ [20 12]]
+Epoch: 001, Train Acc: 0.5439, Train Loss: 0.5982, Test Acc: 0.6849, Test Loss: 0.5792
+Confusion Matrix:
+[[34  7]
+ [ 8 24]]
+Epoch: 002, Train Acc: 0.7544, Train Loss: 0.5428, Test Acc: 0.7945, Test Loss: 0.5386
+Confusion Matrix:
+[[33  8]
+ [ 6 26]]
+Epoch: 003, Train Acc: 0.8246, Train Loss: 0.4658, Test Acc: 0.8082, Test Loss: 0.5288
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 004, Train Acc: 0.8246, Train Loss: 0.4226, Test Acc: 0.7534, Test Loss: 0.5328
+Confusion Matrix:
+[[35  6]
+ [ 9 23]]
+Epoch: 005, Train Acc: 0.7719, Train Loss: 0.4172, Test Acc: 0.7945, Test Loss: 0.5625
+Confusion Matrix:
+[[34  7]
+ [ 8 24]]
+Epoch: 006, Train Acc: 0.8246, Train Loss: 0.4114, Test Acc: 0.7945, Test Loss: 0.5965
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 007, Train Acc: 0.8246, Train Loss: 0.4417, Test Acc: 0.7534, Test Loss: 0.6074
+Confusion Matrix:
+[[35  6]
+ [11 21]]
+Epoch: 008, Train Acc: 0.8070, Train Loss: 0.4370, Test Acc: 0.7671, Test Loss: 0.5982
+Confusion Matrix:
+[[34  7]
+ [ 8 24]]
+Epoch: 009, Train Acc: 0.8070, Train Loss: 0.4405, Test Acc: 0.7945, Test Loss: 0.5859
+Confusion Matrix:
+[[34  7]
+ [ 8 24]]
+Epoch: 010, Train Acc: 0.8421, Train Loss: 0.4303, Test Acc: 0.7945, Test Loss: 0.5623
+Confusion Matrix:
+[[36  5]
+ [12 20]]
+Epoch: 011, Train Acc: 0.8246, Train Loss: 0.4343, Test Acc: 0.7671, Test Loss: 0.5374
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 012, Train Acc: 0.8070, Train Loss: 0.4018, Test Acc: 0.7534, Test Loss: 0.5274
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 013, Train Acc: 0.7895, Train Loss: 0.4008, Test Acc: 0.7808, Test Loss: 0.5246
+Confusion Matrix:
+[[35  6]
+ [ 8 24]]
+Epoch: 014, Train Acc: 0.8246, Train Loss: 0.4152, Test Acc: 0.8082, Test Loss: 0.5300
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 015, Train Acc: 0.8070, Train Loss: 0.4207, Test Acc: 0.7808, Test Loss: 0.5268
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 016, Train Acc: 0.8070, Train Loss: 0.4245, Test Acc: 0.7534, Test Loss: 0.5242
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 017, Train Acc: 0.8070, Train Loss: 0.4143, Test Acc: 0.7534, Test Loss: 0.5243
+Confusion Matrix:
+[[35  6]
+ [11 21]]
+Epoch: 018, Train Acc: 0.8070, Train Loss: 0.4105, Test Acc: 0.7671, Test Loss: 0.5264
+Confusion Matrix:
+[[35  6]
+ [ 9 23]]
+Epoch: 019, Train Acc: 0.8246, Train Loss: 0.3963, Test Acc: 0.7945, Test Loss: 0.5356
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 020, Train Acc: 0.8246, Train Loss: 0.4194, Test Acc: 0.7808, Test Loss: 0.5406
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 021, Train Acc: 0.8246, Train Loss: 0.4088, Test Acc: 0.7808, Test Loss: 0.5453
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 022, Train Acc: 0.8246, Train Loss: 0.4032, Test Acc: 0.7534, Test Loss: 0.5538
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 023, Train Acc: 0.7895, Train Loss: 0.4171, Test Acc: 0.7808, Test Loss: 0.5577
+Confusion Matrix:
+[[35  6]
+ [ 8 24]]
+Epoch: 024, Train Acc: 0.8246, Train Loss: 0.4045, Test Acc: 0.8082, Test Loss: 0.5644
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 025, Train Acc: 0.8421, Train Loss: 0.3928, Test Acc: 0.7808, Test Loss: 0.5606
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 026, Train Acc: 0.8421, Train Loss: 0.4055, Test Acc: 0.7534, Test Loss: 0.5547
+Confusion Matrix:
+[[36  5]
+ [13 19]]
+Epoch: 027, Train Acc: 0.7895, Train Loss: 0.4122, Test Acc: 0.7534, Test Loss: 0.5495
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 028, Train Acc: 0.8246, Train Loss: 0.4068, Test Acc: 0.7808, Test Loss: 0.5448
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 029, Train Acc: 0.8421, Train Loss: 0.3960, Test Acc: 0.7808, Test Loss: 0.5419
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 030, Train Acc: 0.8246, Train Loss: 0.3925, Test Acc: 0.7808, Test Loss: 0.5415
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 031, Train Acc: 0.8421, Train Loss: 0.3961, Test Acc: 0.7808, Test Loss: 0.5409
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 032, Train Acc: 0.8421, Train Loss: 0.4092, Test Acc: 0.7808, Test Loss: 0.5401
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 033, Train Acc: 0.8070, Train Loss: 0.3968, Test Acc: 0.7808, Test Loss: 0.5395
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 034, Train Acc: 0.8246, Train Loss: 0.4008, Test Acc: 0.7808, Test Loss: 0.5390
+Confusion Matrix:
+[[35  6]
+ [11 21]]
+Epoch: 035, Train Acc: 0.8246, Train Loss: 0.4120, Test Acc: 0.7671, Test Loss: 0.5386
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 036, Train Acc: 0.7895, Train Loss: 0.4039, Test Acc: 0.7808, Test Loss: 0.5383
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 037, Train Acc: 0.8246, Train Loss: 0.4054, Test Acc: 0.7808, Test Loss: 0.5381
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 038, Train Acc: 0.8070, Train Loss: 0.4099, Test Acc: 0.7808, Test Loss: 0.5380
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 039, Train Acc: 0.8246, Train Loss: 0.4010, Test Acc: 0.7808, Test Loss: 0.5379
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 040, Train Acc: 0.8246, Train Loss: 0.4121, Test Acc: 0.7808, Test Loss: 0.5380
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 041, Train Acc: 0.8070, Train Loss: 0.3971, Test Acc: 0.7808, Test Loss: 0.5381
+Confusion Matrix:
+[[35  6]
+ [11 21]]
+Epoch: 042, Train Acc: 0.8070, Train Loss: 0.3998, Test Acc: 0.7671, Test Loss: 0.5383
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 043, Train Acc: 0.8246, Train Loss: 0.3968, Test Acc: 0.7808, Test Loss: 0.5387
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 044, Train Acc: 0.8246, Train Loss: 0.3995, Test Acc: 0.7808, Test Loss: 0.5392
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 045, Train Acc: 0.7895, Train Loss: 0.3923, Test Acc: 0.7808, Test Loss: 0.5398
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 046, Train Acc: 0.8070, Train Loss: 0.4075, Test Acc: 0.7808, Test Loss: 0.5401
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 047, Train Acc: 0.8421, Train Loss: 0.4061, Test Acc: 0.7808, Test Loss: 0.5403
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 048, Train Acc: 0.8246, Train Loss: 0.4016, Test Acc: 0.7808, Test Loss: 0.5402
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+Epoch: 049, Train Acc: 0.8246, Train Loss: 0.4105, Test Acc: 0.7808, Test Loss: 0.5400
+Confusion Matrix:
+[[35  6]
+ [11 21]]
+Epoch: 050, Train Acc: 0.8246, Train Loss: 0.3997, Test Acc: 0.7671, Test Loss: 0.5399
+Confusion Matrix:
+[[35  6]
+ [11 21]]
+Epoch: 051, Train Acc: 0.8246, Train Loss: 0.3992, Test Acc: 0.7671, Test Loss: 0.5398
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 052, Train Acc: 0.8246, Train Loss: 0.4061, Test Acc: 0.7808, Test Loss: 0.5398
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 053, Train Acc: 0.8246, Train Loss: 0.3992, Test Acc: 0.7808, Test Loss: 0.5399
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 054, Train Acc: 0.8070, Train Loss: 0.4039, Test Acc: 0.7808, Test Loss: 0.5401
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 055, Train Acc: 0.8246, Train Loss: 0.4118, Test Acc: 0.7808, Test Loss: 0.5402
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 056, Train Acc: 0.8246, Train Loss: 0.3881, Test Acc: 0.7808, Test Loss: 0.5404
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 057, Train Acc: 0.8070, Train Loss: 0.4059, Test Acc: 0.7808, Test Loss: 0.5407
+Confusion Matrix:
+[[36  5]
+ [11 21]]
+Epoch: 058, Train Acc: 0.8421, Train Loss: 0.4073, Test Acc: 0.7808, Test Loss: 0.5411
+Confusion Matrix:
+[[35  6]
+ [11 21]]
+Epoch: 059, Train Acc: 0.8246, Train Loss: 0.4022, Test Acc: 0.7671, Test Loss: 0.5415
+Learning rate changes to 2.5e-05
+Train Epoch: 3	 phi_loss: -0.4941   var_loss: -0.5249   reg_loss: 1.0247   Test accuracy: 0.5961   Val var loss: -0.5687
+Train Epoch: 4	 phi_loss: -0.5348   var_loss: -0.5709   reg_loss: 1.2047   Test accuracy: 0.5775   Val var loss: -0.6765
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15806
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD22-15806, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-24117
+Predicting slide BD21-24117, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (88, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (99, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (54, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (35, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (92, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (100, 128)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+Epoch: 000, Train Acc: 0.5088, Train Loss: 0.7077, Test Acc: 0.4384, Test Loss: 0.7079
+Confusion Matrix:
+[[36  5]
+ [ 8 24]]
+Epoch: 001, Train Acc: 0.4912, Train Loss: 0.6404, Test Acc: 0.8219, Test Loss: 0.6013
+Confusion Matrix:
+[[37  4]
+ [12 20]]
+Epoch: 002, Train Acc: 0.8070, Train Loss: 0.5689, Test Acc: 0.7808, Test Loss: 0.5432
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 003, Train Acc: 0.7895, Train Loss: 0.4979, Test Acc: 0.8219, Test Loss: 0.5073
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 004, Train Acc: 0.8246, Train Loss: 0.4196, Test Acc: 0.8219, Test Loss: 0.4963
+Confusion Matrix:
+[[36  5]
+ [ 8 24]]
+Epoch: 005, Train Acc: 0.8246, Train Loss: 0.3884, Test Acc: 0.8219, Test Loss: 0.4945
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 006, Train Acc: 0.8070, Train Loss: 0.3864, Test Acc: 0.8219, Test Loss: 0.5471
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 007, Train Acc: 0.8421, Train Loss: 0.3857, Test Acc: 0.8219, Test Loss: 0.5748
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 008, Train Acc: 0.8421, Train Loss: 0.3963, Test Acc: 0.8219, Test Loss: 0.5665
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 009, Train Acc: 0.8421, Train Loss: 0.3969, Test Acc: 0.8219, Test Loss: 0.5606
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 010, Train Acc: 0.8421, Train Loss: 0.4060, Test Acc: 0.8082, Test Loss: 0.5442
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 011, Train Acc: 0.8421, Train Loss: 0.3939, Test Acc: 0.8082, Test Loss: 0.5176
+Confusion Matrix:
+[[36  5]
+ [ 8 24]]
+Epoch: 012, Train Acc: 0.8421, Train Loss: 0.3905, Test Acc: 0.8219, Test Loss: 0.4899
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 013, Train Acc: 0.8246, Train Loss: 0.3772, Test Acc: 0.8219, Test Loss: 0.4854
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 014, Train Acc: 0.8421, Train Loss: 0.3751, Test Acc: 0.8082, Test Loss: 0.4883
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 015, Train Acc: 0.8421, Train Loss: 0.3835, Test Acc: 0.8219, Test Loss: 0.4861
+Confusion Matrix:
+[[36  5]
+ [ 8 24]]
+Epoch: 016, Train Acc: 0.8421, Train Loss: 0.3897, Test Acc: 0.8219, Test Loss: 0.4819
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 017, Train Acc: 0.8596, Train Loss: 0.3799, Test Acc: 0.8219, Test Loss: 0.4856
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 018, Train Acc: 0.8421, Train Loss: 0.3977, Test Acc: 0.8219, Test Loss: 0.4954
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 019, Train Acc: 0.8421, Train Loss: 0.3857, Test Acc: 0.8082, Test Loss: 0.4906
+Confusion Matrix:
+[[36  5]
+ [ 8 24]]
+Epoch: 020, Train Acc: 0.8421, Train Loss: 0.3694, Test Acc: 0.8219, Test Loss: 0.4855
+Confusion Matrix:
+[[36  5]
+ [ 7 25]]
+Epoch: 021, Train Acc: 0.8421, Train Loss: 0.3813, Test Acc: 0.8356, Test Loss: 0.4936
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 022, Train Acc: 0.8421, Train Loss: 0.3859, Test Acc: 0.8082, Test Loss: 0.5086
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 023, Train Acc: 0.8421, Train Loss: 0.3705, Test Acc: 0.8082, Test Loss: 0.5162
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 024, Train Acc: 0.8421, Train Loss: 0.3819, Test Acc: 0.8219, Test Loss: 0.5118
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 025, Train Acc: 0.8421, Train Loss: 0.3928, Test Acc: 0.8219, Test Loss: 0.5080
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 026, Train Acc: 0.8421, Train Loss: 0.3718, Test Acc: 0.8082, Test Loss: 0.5078
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 027, Train Acc: 0.8070, Train Loss: 0.3885, Test Acc: 0.8082, Test Loss: 0.5025
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 028, Train Acc: 0.8246, Train Loss: 0.3724, Test Acc: 0.8219, Test Loss: 0.4934
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 029, Train Acc: 0.8421, Train Loss: 0.3553, Test Acc: 0.8219, Test Loss: 0.4902
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 030, Train Acc: 0.8421, Train Loss: 0.3683, Test Acc: 0.8219, Test Loss: 0.4901
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 031, Train Acc: 0.8246, Train Loss: 0.3645, Test Acc: 0.8219, Test Loss: 0.4901
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 032, Train Acc: 0.8421, Train Loss: 0.3629, Test Acc: 0.8219, Test Loss: 0.4903
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 033, Train Acc: 0.8421, Train Loss: 0.3761, Test Acc: 0.8219, Test Loss: 0.4904
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 034, Train Acc: 0.8421, Train Loss: 0.3824, Test Acc: 0.8219, Test Loss: 0.4906
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 035, Train Acc: 0.8421, Train Loss: 0.3773, Test Acc: 0.8219, Test Loss: 0.4908
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 036, Train Acc: 0.8246, Train Loss: 0.3710, Test Acc: 0.8219, Test Loss: 0.4910
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 037, Train Acc: 0.8246, Train Loss: 0.3659, Test Acc: 0.8082, Test Loss: 0.4914
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 038, Train Acc: 0.8421, Train Loss: 0.3768, Test Acc: 0.8082, Test Loss: 0.4913
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 039, Train Acc: 0.8421, Train Loss: 0.3617, Test Acc: 0.8219, Test Loss: 0.4911
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 040, Train Acc: 0.8421, Train Loss: 0.3770, Test Acc: 0.8219, Test Loss: 0.4906
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 041, Train Acc: 0.8421, Train Loss: 0.3740, Test Acc: 0.8219, Test Loss: 0.4902
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 042, Train Acc: 0.8421, Train Loss: 0.3650, Test Acc: 0.8219, Test Loss: 0.4893
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 043, Train Acc: 0.8246, Train Loss: 0.3847, Test Acc: 0.8219, Test Loss: 0.4887
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 044, Train Acc: 0.8070, Train Loss: 0.3897, Test Acc: 0.8219, Test Loss: 0.4885
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 045, Train Acc: 0.8246, Train Loss: 0.3856, Test Acc: 0.8219, Test Loss: 0.4888
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 046, Train Acc: 0.8421, Train Loss: 0.3616, Test Acc: 0.8219, Test Loss: 0.4898
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 047, Train Acc: 0.8421, Train Loss: 0.3657, Test Acc: 0.8219, Test Loss: 0.4909
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 048, Train Acc: 0.8246, Train Loss: 0.3635, Test Acc: 0.8219, Test Loss: 0.4921
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 049, Train Acc: 0.8246, Train Loss: 0.3675, Test Acc: 0.8082, Test Loss: 0.4928
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 050, Train Acc: 0.8246, Train Loss: 0.3713, Test Acc: 0.8082, Test Loss: 0.4933
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 051, Train Acc: 0.8421, Train Loss: 0.3812, Test Acc: 0.8082, Test Loss: 0.4936
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 052, Train Acc: 0.8421, Train Loss: 0.3691, Test Acc: 0.8082, Test Loss: 0.4940
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 053, Train Acc: 0.8421, Train Loss: 0.3737, Test Acc: 0.8082, Test Loss: 0.4942
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+Epoch: 054, Train Acc: 0.8246, Train Loss: 0.3761, Test Acc: 0.8082, Test Loss: 0.4938
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 055, Train Acc: 0.8421, Train Loss: 0.3695, Test Acc: 0.8219, Test Loss: 0.4930
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 056, Train Acc: 0.8246, Train Loss: 0.3739, Test Acc: 0.8219, Test Loss: 0.4920
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 057, Train Acc: 0.8246, Train Loss: 0.3872, Test Acc: 0.8219, Test Loss: 0.4908
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 058, Train Acc: 0.8421, Train Loss: 0.3833, Test Acc: 0.8219, Test Loss: 0.4895
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+Epoch: 059, Train Acc: 0.8421, Train Loss: 0.3736, Test Acc: 0.8219, Test Loss: 0.4888
+Learning rate changes to 1.25e-05
+Train Epoch: 5	 phi_loss: -0.5520   var_loss: -0.5878   reg_loss: 1.1939   Test accuracy: 0.5741   Val var loss: -0.7376
+Train Epoch: 6	 phi_loss: -0.5910   var_loss: -0.6326   reg_loss: 1.3878   Test accuracy: 0.5880   Val var loss: -0.8096
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15806
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD22-15806, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-24117
+Predicting slide BD21-24117, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (88, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (99, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (54, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (35, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (92, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (100, 128)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+Epoch: 000, Train Acc: 0.5088, Train Loss: 0.7268, Test Acc: 0.4384, Test Loss: 0.8314
+Confusion Matrix:
+[[27 14]
+ [ 3 29]]
+Epoch: 001, Train Acc: 0.4912, Train Loss: 0.7112, Test Acc: 0.7671, Test Loss: 0.6050
+Confusion Matrix:
+[[41  0]
+ [27  5]]
+Epoch: 002, Train Acc: 0.8421, Train Loss: 0.5671, Test Acc: 0.6301, Test Loss: 0.5997
+Confusion Matrix:
+[[37  4]
+ [12 20]]
+Epoch: 003, Train Acc: 0.6140, Train Loss: 0.6008, Test Acc: 0.7808, Test Loss: 0.5382
+Confusion Matrix:
+[[30 11]
+ [ 3 29]]
+Epoch: 004, Train Acc: 0.7544, Train Loss: 0.5077, Test Acc: 0.8082, Test Loss: 0.5257
+Confusion Matrix:
+[[23 18]
+ [ 2 30]]
+Epoch: 005, Train Acc: 0.8421, Train Loss: 0.4436, Test Acc: 0.7260, Test Loss: 0.5548
+Confusion Matrix:
+[[30 11]
+ [ 3 29]]
+Epoch: 006, Train Acc: 0.8246, Train Loss: 0.4283, Test Acc: 0.8082, Test Loss: 0.5136
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 007, Train Acc: 0.8421, Train Loss: 0.3765, Test Acc: 0.8493, Test Loss: 0.4602
+Confusion Matrix:
+[[36  5]
+ [ 9 23]]
+Epoch: 008, Train Acc: 0.8421, Train Loss: 0.3591, Test Acc: 0.8082, Test Loss: 0.4678
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 009, Train Acc: 0.8421, Train Loss: 0.3676, Test Acc: 0.8493, Test Loss: 0.4920
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 010, Train Acc: 0.8596, Train Loss: 0.3813, Test Acc: 0.8219, Test Loss: 0.5545
+Confusion Matrix:
+[[30 11]
+ [ 3 29]]
+Epoch: 011, Train Acc: 0.8596, Train Loss: 0.3886, Test Acc: 0.8082, Test Loss: 0.6044
+Confusion Matrix:
+[[30 11]
+ [ 3 29]]
+Epoch: 012, Train Acc: 0.8421, Train Loss: 0.3866, Test Acc: 0.8082, Test Loss: 0.5813
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 013, Train Acc: 0.8596, Train Loss: 0.3824, Test Acc: 0.8219, Test Loss: 0.5296
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 014, Train Acc: 0.8421, Train Loss: 0.3818, Test Acc: 0.8493, Test Loss: 0.4989
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 015, Train Acc: 0.8596, Train Loss: 0.3847, Test Acc: 0.8493, Test Loss: 0.4842
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 016, Train Acc: 0.8596, Train Loss: 0.3806, Test Acc: 0.8219, Test Loss: 0.4821
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 017, Train Acc: 0.8596, Train Loss: 0.3674, Test Acc: 0.8356, Test Loss: 0.4945
+Confusion Matrix:
+[[30 11]
+ [ 3 29]]
+Epoch: 018, Train Acc: 0.8421, Train Loss: 0.3538, Test Acc: 0.8082, Test Loss: 0.5046
+Confusion Matrix:
+[[31 10]
+ [ 3 29]]
+Epoch: 019, Train Acc: 0.8596, Train Loss: 0.3610, Test Acc: 0.8219, Test Loss: 0.4950
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 020, Train Acc: 0.8421, Train Loss: 0.3662, Test Acc: 0.8219, Test Loss: 0.4753
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+Epoch: 021, Train Acc: 0.8421, Train Loss: 0.3662, Test Acc: 0.8356, Test Loss: 0.4626
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 022, Train Acc: 0.8596, Train Loss: 0.3620, Test Acc: 0.8493, Test Loss: 0.4589
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 023, Train Acc: 0.8421, Train Loss: 0.3749, Test Acc: 0.8493, Test Loss: 0.4612
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 024, Train Acc: 0.8596, Train Loss: 0.3648, Test Acc: 0.8219, Test Loss: 0.4709
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 025, Train Acc: 0.8421, Train Loss: 0.3611, Test Acc: 0.8356, Test Loss: 0.4854
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 026, Train Acc: 0.8421, Train Loss: 0.3680, Test Acc: 0.8219, Test Loss: 0.4906
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 027, Train Acc: 0.8596, Train Loss: 0.3631, Test Acc: 0.8219, Test Loss: 0.4817
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 028, Train Acc: 0.8421, Train Loss: 0.3598, Test Acc: 0.8219, Test Loss: 0.4720
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+Epoch: 029, Train Acc: 0.8596, Train Loss: 0.3579, Test Acc: 0.8356, Test Loss: 0.4697
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+Epoch: 030, Train Acc: 0.8596, Train Loss: 0.3647, Test Acc: 0.8356, Test Loss: 0.4704
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+Epoch: 031, Train Acc: 0.8596, Train Loss: 0.3761, Test Acc: 0.8356, Test Loss: 0.4717
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 032, Train Acc: 0.8596, Train Loss: 0.3550, Test Acc: 0.8219, Test Loss: 0.4735
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 033, Train Acc: 0.8596, Train Loss: 0.3522, Test Acc: 0.8219, Test Loss: 0.4757
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 034, Train Acc: 0.8596, Train Loss: 0.3539, Test Acc: 0.8219, Test Loss: 0.4784
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 035, Train Acc: 0.8596, Train Loss: 0.3565, Test Acc: 0.8219, Test Loss: 0.4815
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 036, Train Acc: 0.8596, Train Loss: 0.3585, Test Acc: 0.8219, Test Loss: 0.4846
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 037, Train Acc: 0.8596, Train Loss: 0.3642, Test Acc: 0.8219, Test Loss: 0.4876
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 038, Train Acc: 0.8596, Train Loss: 0.3499, Test Acc: 0.8219, Test Loss: 0.4899
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 039, Train Acc: 0.8596, Train Loss: 0.3575, Test Acc: 0.8356, Test Loss: 0.4918
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 040, Train Acc: 0.8421, Train Loss: 0.3672, Test Acc: 0.8356, Test Loss: 0.4923
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 041, Train Acc: 0.8421, Train Loss: 0.3427, Test Acc: 0.8356, Test Loss: 0.4922
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 042, Train Acc: 0.8596, Train Loss: 0.3570, Test Acc: 0.8356, Test Loss: 0.4913
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 043, Train Acc: 0.8772, Train Loss: 0.3514, Test Acc: 0.8356, Test Loss: 0.4899
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 044, Train Acc: 0.8596, Train Loss: 0.3643, Test Acc: 0.8219, Test Loss: 0.4877
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 045, Train Acc: 0.8596, Train Loss: 0.3521, Test Acc: 0.8219, Test Loss: 0.4851
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 046, Train Acc: 0.8596, Train Loss: 0.3618, Test Acc: 0.8219, Test Loss: 0.4824
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 047, Train Acc: 0.8596, Train Loss: 0.3432, Test Acc: 0.8219, Test Loss: 0.4799
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 048, Train Acc: 0.8421, Train Loss: 0.3580, Test Acc: 0.8219, Test Loss: 0.4780
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 049, Train Acc: 0.8596, Train Loss: 0.3593, Test Acc: 0.8219, Test Loss: 0.4768
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 050, Train Acc: 0.8596, Train Loss: 0.3570, Test Acc: 0.8219, Test Loss: 0.4759
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 051, Train Acc: 0.8421, Train Loss: 0.3546, Test Acc: 0.8219, Test Loss: 0.4754
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 052, Train Acc: 0.8596, Train Loss: 0.3619, Test Acc: 0.8219, Test Loss: 0.4753
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 053, Train Acc: 0.8421, Train Loss: 0.3597, Test Acc: 0.8219, Test Loss: 0.4751
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 054, Train Acc: 0.8596, Train Loss: 0.3623, Test Acc: 0.8219, Test Loss: 0.4754
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 055, Train Acc: 0.8421, Train Loss: 0.3509, Test Acc: 0.8219, Test Loss: 0.4759
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 056, Train Acc: 0.8772, Train Loss: 0.3634, Test Acc: 0.8219, Test Loss: 0.4766
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 057, Train Acc: 0.8596, Train Loss: 0.3480, Test Acc: 0.8219, Test Loss: 0.4776
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 058, Train Acc: 0.8421, Train Loss: 0.3716, Test Acc: 0.8219, Test Loss: 0.4784
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+Epoch: 059, Train Acc: 0.8596, Train Loss: 0.3474, Test Acc: 0.8219, Test Loss: 0.4792
+Train Epoch: 7	 phi_loss: -0.6363   var_loss: -0.6764   reg_loss: 1.3364   Test accuracy: 0.5718   Val var loss: -0.8651
+Train Epoch: 8	 phi_loss: -0.6188   var_loss: -0.6628   reg_loss: 1.4658   Test accuracy: 0.6111   Val var loss: -0.9165
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15806
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD22-15806, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-24117
+Predicting slide BD21-24117, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (88, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (99, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (54, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (35, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (92, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (100, 128)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+Epoch: 000, Train Acc: 0.4912, Train Loss: 0.6524, Test Acc: 0.4384, Test Loss: 0.7876
+Confusion Matrix:
+[[38  3]
+ [19 13]]
+Epoch: 001, Train Acc: 0.5088, Train Loss: 0.6467, Test Acc: 0.6986, Test Loss: 0.5587
+Confusion Matrix:
+[[38  3]
+ [19 13]]
+Epoch: 002, Train Acc: 0.7544, Train Loss: 0.5393, Test Acc: 0.6986, Test Loss: 0.5345
+Confusion Matrix:
+[[35  6]
+ [ 4 28]]
+Epoch: 003, Train Acc: 0.7719, Train Loss: 0.5132, Test Acc: 0.8630, Test Loss: 0.4947
+Confusion Matrix:
+[[24 17]
+ [ 3 29]]
+Epoch: 004, Train Acc: 0.8421, Train Loss: 0.4152, Test Acc: 0.7260, Test Loss: 0.5419
+Confusion Matrix:
+[[25 16]
+ [ 3 29]]
+Epoch: 005, Train Acc: 0.8421, Train Loss: 0.3903, Test Acc: 0.7397, Test Loss: 0.5533
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 006, Train Acc: 0.8246, Train Loss: 0.3746, Test Acc: 0.8493, Test Loss: 0.4979
+Confusion Matrix:
+[[36  5]
+ [ 8 24]]
+Epoch: 007, Train Acc: 0.8596, Train Loss: 0.3463, Test Acc: 0.8219, Test Loss: 0.4864
+Confusion Matrix:
+[[36  5]
+ [ 7 25]]
+Epoch: 008, Train Acc: 0.8246, Train Loss: 0.3720, Test Acc: 0.8356, Test Loss: 0.5093
+Confusion Matrix:
+[[30 11]
+ [ 4 28]]
+Epoch: 009, Train Acc: 0.8421, Train Loss: 0.3635, Test Acc: 0.7945, Test Loss: 0.5690
+Confusion Matrix:
+[[28 13]
+ [ 3 29]]
+Epoch: 010, Train Acc: 0.8421, Train Loss: 0.3785, Test Acc: 0.7808, Test Loss: 0.6228
+Confusion Matrix:
+[[29 12]
+ [ 4 28]]
+Epoch: 011, Train Acc: 0.8070, Train Loss: 0.3848, Test Acc: 0.7808, Test Loss: 0.5989
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 012, Train Acc: 0.8246, Train Loss: 0.3695, Test Acc: 0.8493, Test Loss: 0.5345
+Confusion Matrix:
+[[36  5]
+ [ 5 27]]
+Epoch: 013, Train Acc: 0.8246, Train Loss: 0.3687, Test Acc: 0.8630, Test Loss: 0.4940
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 014, Train Acc: 0.8596, Train Loss: 0.3546, Test Acc: 0.8493, Test Loss: 0.4786
+Confusion Matrix:
+[[35  6]
+ [ 4 28]]
+Epoch: 015, Train Acc: 0.8421, Train Loss: 0.3624, Test Acc: 0.8630, Test Loss: 0.4804
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 016, Train Acc: 0.8421, Train Loss: 0.3565, Test Acc: 0.8219, Test Loss: 0.4971
+Confusion Matrix:
+[[29 12]
+ [ 4 28]]
+Epoch: 017, Train Acc: 0.8421, Train Loss: 0.3484, Test Acc: 0.7808, Test Loss: 0.5126
+Confusion Matrix:
+[[29 12]
+ [ 4 28]]
+Epoch: 018, Train Acc: 0.8246, Train Loss: 0.3647, Test Acc: 0.7808, Test Loss: 0.5100
+Confusion Matrix:
+[[33  8]
+ [ 4 28]]
+Epoch: 019, Train Acc: 0.8246, Train Loss: 0.3576, Test Acc: 0.8356, Test Loss: 0.4921
+Confusion Matrix:
+[[35  6]
+ [ 4 28]]
+Epoch: 020, Train Acc: 0.8596, Train Loss: 0.3605, Test Acc: 0.8630, Test Loss: 0.4758
+Confusion Matrix:
+[[36  5]
+ [ 6 26]]
+Epoch: 021, Train Acc: 0.8596, Train Loss: 0.3557, Test Acc: 0.8493, Test Loss: 0.4699
+Confusion Matrix:
+[[35  6]
+ [ 4 28]]
+Epoch: 022, Train Acc: 0.8246, Train Loss: 0.3510, Test Acc: 0.8630, Test Loss: 0.4754
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 023, Train Acc: 0.8421, Train Loss: 0.3524, Test Acc: 0.8493, Test Loss: 0.4923
+Confusion Matrix:
+[[30 11]
+ [ 4 28]]
+Epoch: 024, Train Acc: 0.8596, Train Loss: 0.3464, Test Acc: 0.7945, Test Loss: 0.5163
+Confusion Matrix:
+[[30 11]
+ [ 4 28]]
+Epoch: 025, Train Acc: 0.8246, Train Loss: 0.3588, Test Acc: 0.7945, Test Loss: 0.5276
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+Epoch: 026, Train Acc: 0.8246, Train Loss: 0.3536, Test Acc: 0.8082, Test Loss: 0.5228
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 027, Train Acc: 0.8421, Train Loss: 0.3499, Test Acc: 0.8493, Test Loss: 0.5117
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 028, Train Acc: 0.8421, Train Loss: 0.3493, Test Acc: 0.8493, Test Loss: 0.5038
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 029, Train Acc: 0.8596, Train Loss: 0.3574, Test Acc: 0.8493, Test Loss: 0.4997
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 030, Train Acc: 0.8421, Train Loss: 0.3539, Test Acc: 0.8493, Test Loss: 0.5000
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 031, Train Acc: 0.8596, Train Loss: 0.3461, Test Acc: 0.8493, Test Loss: 0.5009
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 032, Train Acc: 0.8596, Train Loss: 0.3495, Test Acc: 0.8493, Test Loss: 0.5020
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 033, Train Acc: 0.8596, Train Loss: 0.3407, Test Acc: 0.8493, Test Loss: 0.5035
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 034, Train Acc: 0.8421, Train Loss: 0.3491, Test Acc: 0.8493, Test Loss: 0.5052
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 035, Train Acc: 0.8421, Train Loss: 0.3527, Test Acc: 0.8493, Test Loss: 0.5068
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 036, Train Acc: 0.8596, Train Loss: 0.3527, Test Acc: 0.8219, Test Loss: 0.5083
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 037, Train Acc: 0.8421, Train Loss: 0.3538, Test Acc: 0.8219, Test Loss: 0.5093
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+Epoch: 038, Train Acc: 0.8421, Train Loss: 0.3537, Test Acc: 0.8082, Test Loss: 0.5097
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+Epoch: 039, Train Acc: 0.8596, Train Loss: 0.3479, Test Acc: 0.8082, Test Loss: 0.5095
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+Epoch: 040, Train Acc: 0.8596, Train Loss: 0.3435, Test Acc: 0.8082, Test Loss: 0.5089
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+Epoch: 041, Train Acc: 0.8421, Train Loss: 0.3440, Test Acc: 0.8082, Test Loss: 0.5079
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+Epoch: 042, Train Acc: 0.8421, Train Loss: 0.3490, Test Acc: 0.8082, Test Loss: 0.5060
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+Epoch: 043, Train Acc: 0.8421, Train Loss: 0.3498, Test Acc: 0.8082, Test Loss: 0.5038
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+Epoch: 044, Train Acc: 0.8421, Train Loss: 0.3575, Test Acc: 0.8219, Test Loss: 0.5012
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 045, Train Acc: 0.8596, Train Loss: 0.3531, Test Acc: 0.8493, Test Loss: 0.4986
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 046, Train Acc: 0.8596, Train Loss: 0.3424, Test Acc: 0.8493, Test Loss: 0.4965
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 047, Train Acc: 0.8421, Train Loss: 0.3446, Test Acc: 0.8493, Test Loss: 0.4948
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 048, Train Acc: 0.8246, Train Loss: 0.3512, Test Acc: 0.8493, Test Loss: 0.4933
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 049, Train Acc: 0.8421, Train Loss: 0.3499, Test Acc: 0.8493, Test Loss: 0.4919
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 050, Train Acc: 0.8596, Train Loss: 0.3453, Test Acc: 0.8493, Test Loss: 0.4910
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 051, Train Acc: 0.8596, Train Loss: 0.3433, Test Acc: 0.8493, Test Loss: 0.4903
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 052, Train Acc: 0.8421, Train Loss: 0.3457, Test Acc: 0.8493, Test Loss: 0.4900
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 053, Train Acc: 0.8596, Train Loss: 0.3407, Test Acc: 0.8493, Test Loss: 0.4904
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 054, Train Acc: 0.8421, Train Loss: 0.3480, Test Acc: 0.8493, Test Loss: 0.4910
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 055, Train Acc: 0.8421, Train Loss: 0.3525, Test Acc: 0.8493, Test Loss: 0.4918
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 056, Train Acc: 0.8421, Train Loss: 0.3448, Test Acc: 0.8493, Test Loss: 0.4929
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 057, Train Acc: 0.8596, Train Loss: 0.3409, Test Acc: 0.8493, Test Loss: 0.4937
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 058, Train Acc: 0.8421, Train Loss: 0.3427, Test Acc: 0.8493, Test Loss: 0.4945
+Confusion Matrix:
+[[34  7]
+ [ 4 28]]
+Epoch: 059, Train Acc: 0.8246, Train Loss: 0.3475, Test Acc: 0.8493, Test Loss: 0.4951
+Train Epoch: 9	 phi_loss: -0.6670   var_loss: -0.7169   reg_loss: 1.6610   Test accuracy: 0.6285   Val var loss: -0.9210
+Train Epoch: 10	 phi_loss: -0.7021   var_loss: -0.7536   reg_loss: 1.7182   Test accuracy: 0.5938   Val var loss: -1.0256
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15806
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD22-15806, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-24117
+Predicting slide BD21-24117, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (88, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (99, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (54, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (35, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (92, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (100, 128)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+Epoch: 000, Train Acc: 0.5088, Train Loss: 0.7305, Test Acc: 0.4384, Test Loss: 0.7598
+Confusion Matrix:
+[[ 6 35]
+ [ 0 32]]
+Epoch: 001, Train Acc: 0.4912, Train Loss: 0.7200, Test Acc: 0.5205, Test Loss: 0.6792
+Confusion Matrix:
+[[40  1]
+ [30  2]]
+Epoch: 002, Train Acc: 0.4912, Train Loss: 0.6548, Test Acc: 0.5753, Test Loss: 0.6551
+Confusion Matrix:
+[[40  1]
+ [30  2]]
+Epoch: 003, Train Acc: 0.5965, Train Loss: 0.6579, Test Acc: 0.5753, Test Loss: 0.6472
+Confusion Matrix:
+[[37  4]
+ [22 10]]
+Epoch: 004, Train Acc: 0.6140, Train Loss: 0.6529, Test Acc: 0.6438, Test Loss: 0.6282
+Confusion Matrix:
+[[31 10]
+ [11 21]]
+Epoch: 005, Train Acc: 0.7018, Train Loss: 0.6170, Test Acc: 0.7123, Test Loss: 0.6180
+Confusion Matrix:
+[[28 13]
+ [ 7 25]]
+Epoch: 006, Train Acc: 0.7544, Train Loss: 0.5994, Test Acc: 0.7260, Test Loss: 0.6093
+Confusion Matrix:
+[[32  9]
+ [14 18]]
+Epoch: 007, Train Acc: 0.7719, Train Loss: 0.5859, Test Acc: 0.6849, Test Loss: 0.5892
+Confusion Matrix:
+[[36  5]
+ [20 12]]
+Epoch: 008, Train Acc: 0.7193, Train Loss: 0.5516, Test Acc: 0.6575, Test Loss: 0.5876
+Confusion Matrix:
+[[37  4]
+ [22 10]]
+Epoch: 009, Train Acc: 0.7193, Train Loss: 0.5311, Test Acc: 0.6438, Test Loss: 0.6126
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 010, Train Acc: 0.7193, Train Loss: 0.5271, Test Acc: 0.6849, Test Loss: 0.5991
+Confusion Matrix:
+[[32  9]
+ [14 18]]
+Epoch: 011, Train Acc: 0.7193, Train Loss: 0.5092, Test Acc: 0.6849, Test Loss: 0.6000
+Confusion Matrix:
+[[33  8]
+ [15 17]]
+Epoch: 012, Train Acc: 0.7193, Train Loss: 0.5318, Test Acc: 0.6849, Test Loss: 0.6187
+Confusion Matrix:
+[[36  5]
+ [20 12]]
+Epoch: 013, Train Acc: 0.7368, Train Loss: 0.5182, Test Acc: 0.6575, Test Loss: 0.6667
+Confusion Matrix:
+[[36  5]
+ [20 12]]
+Epoch: 014, Train Acc: 0.7193, Train Loss: 0.5330, Test Acc: 0.6575, Test Loss: 0.6879
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 015, Train Acc: 0.7018, Train Loss: 0.5390, Test Acc: 0.7123, Test Loss: 0.6558
+Confusion Matrix:
+[[32  9]
+ [15 17]]
+Epoch: 016, Train Acc: 0.7018, Train Loss: 0.5395, Test Acc: 0.6712, Test Loss: 0.6311
+Confusion Matrix:
+[[35  6]
+ [15 17]]
+Epoch: 017, Train Acc: 0.7193, Train Loss: 0.5391, Test Acc: 0.7123, Test Loss: 0.6249
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 018, Train Acc: 0.7018, Train Loss: 0.5101, Test Acc: 0.6849, Test Loss: 0.6310
+Confusion Matrix:
+[[36  5]
+ [20 12]]
+Epoch: 019, Train Acc: 0.7018, Train Loss: 0.5195, Test Acc: 0.6575, Test Loss: 0.6255
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 020, Train Acc: 0.7018, Train Loss: 0.5153, Test Acc: 0.6849, Test Loss: 0.6029
+Confusion Matrix:
+[[35  6]
+ [15 17]]
+Epoch: 021, Train Acc: 0.7193, Train Loss: 0.5103, Test Acc: 0.7123, Test Loss: 0.5899
+Confusion Matrix:
+[[33  8]
+ [15 17]]
+Epoch: 022, Train Acc: 0.6842, Train Loss: 0.5189, Test Acc: 0.6849, Test Loss: 0.5856
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 023, Train Acc: 0.7544, Train Loss: 0.5034, Test Acc: 0.7123, Test Loss: 0.5856
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 024, Train Acc: 0.7544, Train Loss: 0.5221, Test Acc: 0.6849, Test Loss: 0.5900
+Confusion Matrix:
+[[36  5]
+ [20 12]]
+Epoch: 025, Train Acc: 0.7193, Train Loss: 0.5216, Test Acc: 0.6575, Test Loss: 0.5943
+Confusion Matrix:
+[[36  5]
+ [20 12]]
+Epoch: 026, Train Acc: 0.7193, Train Loss: 0.5150, Test Acc: 0.6575, Test Loss: 0.5940
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 027, Train Acc: 0.7193, Train Loss: 0.5123, Test Acc: 0.6986, Test Loss: 0.5897
+Confusion Matrix:
+[[35  6]
+ [15 17]]
+Epoch: 028, Train Acc: 0.7193, Train Loss: 0.5195, Test Acc: 0.7123, Test Loss: 0.5882
+Confusion Matrix:
+[[35  6]
+ [15 17]]
+Epoch: 029, Train Acc: 0.7368, Train Loss: 0.5147, Test Acc: 0.7123, Test Loss: 0.5910
+Confusion Matrix:
+[[35  6]
+ [16 16]]
+Epoch: 030, Train Acc: 0.7368, Train Loss: 0.5100, Test Acc: 0.6986, Test Loss: 0.5916
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 031, Train Acc: 0.7544, Train Loss: 0.5097, Test Acc: 0.7123, Test Loss: 0.5926
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 032, Train Acc: 0.7193, Train Loss: 0.5052, Test Acc: 0.7123, Test Loss: 0.5939
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 033, Train Acc: 0.7018, Train Loss: 0.5034, Test Acc: 0.7123, Test Loss: 0.5956
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 034, Train Acc: 0.7193, Train Loss: 0.5155, Test Acc: 0.6986, Test Loss: 0.5976
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 035, Train Acc: 0.7368, Train Loss: 0.5138, Test Acc: 0.6849, Test Loss: 0.5998
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 036, Train Acc: 0.7193, Train Loss: 0.5083, Test Acc: 0.6849, Test Loss: 0.6018
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 037, Train Acc: 0.7544, Train Loss: 0.5076, Test Acc: 0.6849, Test Loss: 0.6037
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 038, Train Acc: 0.7368, Train Loss: 0.5116, Test Acc: 0.6849, Test Loss: 0.6050
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 039, Train Acc: 0.7018, Train Loss: 0.5123, Test Acc: 0.6849, Test Loss: 0.6056
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 040, Train Acc: 0.7193, Train Loss: 0.5060, Test Acc: 0.6849, Test Loss: 0.6057
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 041, Train Acc: 0.7018, Train Loss: 0.5145, Test Acc: 0.6849, Test Loss: 0.6053
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 042, Train Acc: 0.7193, Train Loss: 0.5080, Test Acc: 0.6849, Test Loss: 0.6046
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 043, Train Acc: 0.7368, Train Loss: 0.5203, Test Acc: 0.6986, Test Loss: 0.6037
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 044, Train Acc: 0.7544, Train Loss: 0.4951, Test Acc: 0.6986, Test Loss: 0.6030
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 045, Train Acc: 0.7368, Train Loss: 0.4895, Test Acc: 0.7123, Test Loss: 0.6024
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 046, Train Acc: 0.7193, Train Loss: 0.4870, Test Acc: 0.7123, Test Loss: 0.6019
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 047, Train Acc: 0.7193, Train Loss: 0.5088, Test Acc: 0.7123, Test Loss: 0.6019
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 048, Train Acc: 0.7193, Train Loss: 0.5073, Test Acc: 0.7123, Test Loss: 0.6022
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 049, Train Acc: 0.7193, Train Loss: 0.5126, Test Acc: 0.7123, Test Loss: 0.6030
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 050, Train Acc: 0.7544, Train Loss: 0.5117, Test Acc: 0.7123, Test Loss: 0.6041
+Confusion Matrix:
+[[36  5]
+ [16 16]]
+Epoch: 051, Train Acc: 0.7018, Train Loss: 0.5112, Test Acc: 0.7123, Test Loss: 0.6053
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 052, Train Acc: 0.7018, Train Loss: 0.5092, Test Acc: 0.6986, Test Loss: 0.6065
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 053, Train Acc: 0.7368, Train Loss: 0.4986, Test Acc: 0.6986, Test Loss: 0.6076
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 054, Train Acc: 0.7193, Train Loss: 0.5234, Test Acc: 0.6986, Test Loss: 0.6086
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 055, Train Acc: 0.7193, Train Loss: 0.5094, Test Acc: 0.6849, Test Loss: 0.6094
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 056, Train Acc: 0.7193, Train Loss: 0.5105, Test Acc: 0.6849, Test Loss: 0.6096
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 057, Train Acc: 0.7193, Train Loss: 0.5151, Test Acc: 0.6849, Test Loss: 0.6097
+Confusion Matrix:
+[[36  5]
+ [18 14]]
+Epoch: 058, Train Acc: 0.7193, Train Loss: 0.5033, Test Acc: 0.6849, Test Loss: 0.6093
+Confusion Matrix:
+[[36  5]
+ [17 15]]
+Epoch: 059, Train Acc: 0.7193, Train Loss: 0.5118, Test Acc: 0.6986, Test Loss: 0.6088
+Train Epoch: 11	 phi_loss: -0.7093   var_loss: -0.7626   reg_loss: 1.7764   Test accuracy: 0.6412   Val var loss: -1.0599
+Train Epoch: 12	 phi_loss: -0.7649   var_loss: -0.8168   reg_loss: 1.7279   Test accuracy: 0.6562   Val var loss: -1.1916
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15806
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD22-15806, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-24117
+Predicting slide BD21-24117, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (88, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (99, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (54, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (35, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (92, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (100, 128)
+/fast/beidi/vpu-tilt/data/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (100, 128)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[41  0]
+ [32  0]]
+Epoch: 000, Train Acc: 0.4912, Train Loss: 0.6985, Test Acc: 0.5616, Test Loss: 0.6827
+Confusion Matrix:
+[[ 0 41]
+ [ 1 31]]
+Epoch: 001, Train Acc: 0.5088, Train Loss: 0.6993, Test Acc: 0.4247, Test Loss: 0.7028
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+Epoch: 002, Train Acc: 0.4737, Train Loss: 0.6464, Test Acc: 0.4384, Test Loss: 0.7423
+Confusion Matrix:
+[[ 6 35]
+ [ 5 27]]
+Epoch: 003, Train Acc: 0.4912, Train Loss: 0.6445, Test Acc: 0.4521, Test Loss: 0.6630
+Confusion Matrix:
+[[39  2]
+ [23  9]]
+Epoch: 004, Train Acc: 0.7719, Train Loss: 0.6020, Test Acc: 0.6575, Test Loss: 0.6083
+Confusion Matrix:
+[[40  1]
+ [26  6]]
+Epoch: 005, Train Acc: 0.7018, Train Loss: 0.5789, Test Acc: 0.6301, Test Loss: 0.6000
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 006, Train Acc: 0.6842, Train Loss: 0.5638, Test Acc: 0.7123, Test Loss: 0.5592
+Confusion Matrix:
+[[36  5]
+ [14 18]]
+Epoch: 007, Train Acc: 0.7368, Train Loss: 0.5156, Test Acc: 0.7397, Test Loss: 0.5342
+Confusion Matrix:
+[[38  3]
+ [16 16]]
+Epoch: 008, Train Acc: 0.7719, Train Loss: 0.4973, Test Acc: 0.7397, Test Loss: 0.5544
+Confusion Matrix:
+[[39  2]
+ [20 12]]
+Epoch: 009, Train Acc: 0.7368, Train Loss: 0.4728, Test Acc: 0.6986, Test Loss: 0.7033
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 010, Train Acc: 0.7895, Train Loss: 0.4877, Test Acc: 0.7123, Test Loss: 0.6702
+Confusion Matrix:
+[[37  4]
+ [15 17]]
+Epoch: 011, Train Acc: 0.7544, Train Loss: 0.4793, Test Acc: 0.7397, Test Loss: 0.6231
+Confusion Matrix:
+[[38  3]
+ [16 16]]
+Epoch: 012, Train Acc: 0.7368, Train Loss: 0.4949, Test Acc: 0.7397, Test Loss: 0.6826
+Confusion Matrix:
+[[39  2]
+ [19 13]]
+Epoch: 013, Train Acc: 0.7719, Train Loss: 0.4698, Test Acc: 0.7123, Test Loss: 0.7950
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 014, Train Acc: 0.7368, Train Loss: 0.4997, Test Acc: 0.7123, Test Loss: 0.7730
+Confusion Matrix:
+[[38  3]
+ [16 16]]
+Epoch: 015, Train Acc: 0.7544, Train Loss: 0.4839, Test Acc: 0.7397, Test Loss: 0.6821
+Confusion Matrix:
+[[38  3]
+ [16 16]]
+Epoch: 016, Train Acc: 0.7544, Train Loss: 0.4855, Test Acc: 0.7397, Test Loss: 0.6541
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 017, Train Acc: 0.7544, Train Loss: 0.4788, Test Acc: 0.7260, Test Loss: 0.6678
+Confusion Matrix:
+[[38  3]
+ [19 13]]
+Epoch: 018, Train Acc: 0.7368, Train Loss: 0.4867, Test Acc: 0.6986, Test Loss: 0.6841
+Confusion Matrix:
+[[38  3]
+ [19 13]]
+Epoch: 019, Train Acc: 0.7544, Train Loss: 0.4690, Test Acc: 0.6986, Test Loss: 0.6528
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 020, Train Acc: 0.7368, Train Loss: 0.4684, Test Acc: 0.7260, Test Loss: 0.6014
+Confusion Matrix:
+[[38  3]
+ [16 16]]
+Epoch: 021, Train Acc: 0.7544, Train Loss: 0.4671, Test Acc: 0.7397, Test Loss: 0.5779
+Confusion Matrix:
+[[38  3]
+ [16 16]]
+Epoch: 022, Train Acc: 0.7368, Train Loss: 0.4789, Test Acc: 0.7397, Test Loss: 0.5830
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 023, Train Acc: 0.7544, Train Loss: 0.4740, Test Acc: 0.7123, Test Loss: 0.6034
+Confusion Matrix:
+[[38  3]
+ [19 13]]
+Epoch: 024, Train Acc: 0.7368, Train Loss: 0.4780, Test Acc: 0.6986, Test Loss: 0.6131
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 025, Train Acc: 0.7368, Train Loss: 0.4839, Test Acc: 0.7123, Test Loss: 0.6066
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 026, Train Acc: 0.7544, Train Loss: 0.4690, Test Acc: 0.7260, Test Loss: 0.5939
+Confusion Matrix:
+[[38  3]
+ [16 16]]
+Epoch: 027, Train Acc: 0.7544, Train Loss: 0.4777, Test Acc: 0.7397, Test Loss: 0.5946
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 028, Train Acc: 0.7719, Train Loss: 0.4548, Test Acc: 0.7260, Test Loss: 0.6130
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 029, Train Acc: 0.7719, Train Loss: 0.4825, Test Acc: 0.7123, Test Loss: 0.6466
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 030, Train Acc: 0.7368, Train Loss: 0.4702, Test Acc: 0.7123, Test Loss: 0.6484
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 031, Train Acc: 0.7719, Train Loss: 0.4636, Test Acc: 0.7123, Test Loss: 0.6478
+Confusion Matrix:
+[[38  3]
+ [18 14]]
+Epoch: 032, Train Acc: 0.7544, Train Loss: 0.4716, Test Acc: 0.7123, Test Loss: 0.6455
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 033, Train Acc: 0.7368, Train Loss: 0.4749, Test Acc: 0.7260, Test Loss: 0.6421
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 034, Train Acc: 0.7544, Train Loss: 0.4604, Test Acc: 0.7260, Test Loss: 0.6383
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 035, Train Acc: 0.7368, Train Loss: 0.4648, Test Acc: 0.7260, Test Loss: 0.6347
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 036, Train Acc: 0.7895, Train Loss: 0.4609, Test Acc: 0.7260, Test Loss: 0.6322
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 037, Train Acc: 0.7544, Train Loss: 0.4687, Test Acc: 0.7260, Test Loss: 0.6307
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 038, Train Acc: 0.7544, Train Loss: 0.4542, Test Acc: 0.7260, Test Loss: 0.6303
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 039, Train Acc: 0.7544, Train Loss: 0.4753, Test Acc: 0.7260, Test Loss: 0.6309
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 040, Train Acc: 0.7368, Train Loss: 0.4746, Test Acc: 0.7260, Test Loss: 0.6323
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 041, Train Acc: 0.7544, Train Loss: 0.4780, Test Acc: 0.7260, Test Loss: 0.6352
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 042, Train Acc: 0.7544, Train Loss: 0.4538, Test Acc: 0.7260, Test Loss: 0.6391
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 043, Train Acc: 0.7719, Train Loss: 0.4613, Test Acc: 0.7260, Test Loss: 0.6439
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 044, Train Acc: 0.7544, Train Loss: 0.4627, Test Acc: 0.7260, Test Loss: 0.6487
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 045, Train Acc: 0.7719, Train Loss: 0.4584, Test Acc: 0.7260, Test Loss: 0.6527
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 046, Train Acc: 0.7544, Train Loss: 0.4611, Test Acc: 0.7260, Test Loss: 0.6561
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 047, Train Acc: 0.7719, Train Loss: 0.4765, Test Acc: 0.7260, Test Loss: 0.6577
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 048, Train Acc: 0.7895, Train Loss: 0.4525, Test Acc: 0.7260, Test Loss: 0.6575
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 049, Train Acc: 0.7544, Train Loss: 0.4695, Test Acc: 0.7260, Test Loss: 0.6564
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 050, Train Acc: 0.7544, Train Loss: 0.4705, Test Acc: 0.7260, Test Loss: 0.6552
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 051, Train Acc: 0.7544, Train Loss: 0.4596, Test Acc: 0.7260, Test Loss: 0.6531
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 052, Train Acc: 0.7368, Train Loss: 0.4656, Test Acc: 0.7260, Test Loss: 0.6513
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 053, Train Acc: 0.7719, Train Loss: 0.4599, Test Acc: 0.7260, Test Loss: 0.6493
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 054, Train Acc: 0.7719, Train Loss: 0.4687, Test Acc: 0.7260, Test Loss: 0.6481
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 055, Train Acc: 0.7719, Train Loss: 0.4597, Test Acc: 0.7260, Test Loss: 0.6473
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 056, Train Acc: 0.7544, Train Loss: 0.4745, Test Acc: 0.7260, Test Loss: 0.6475
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 057, Train Acc: 0.7368, Train Loss: 0.4643, Test Acc: 0.7260, Test Loss: 0.6477
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 058, Train Acc: 0.7719, Train Loss: 0.4631, Test Acc: 0.7260, Test Loss: 0.6486
+Confusion Matrix:
+[[38  3]
+ [17 15]]
+Epoch: 059, Train Acc: 0.7719, Train Loss: 0.4707, Test Acc: 0.7260, Test Loss: 0.6498

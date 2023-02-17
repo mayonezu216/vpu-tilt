@@ -1,0 +1,7 @@
+cd /bigdata/projects/beidi/git/vpu-tilt
+
+python -u sliding_window.py 2>&1 |tee record_256a.log &
+
+python train_test_split.py
+
+python -u run_GNN.py 2>&1 |tee ./GNN_tile32_ep50.log &

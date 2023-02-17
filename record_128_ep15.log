@@ -1,0 +1,10 @@
+/fast/beidi/anaconda3/envs/beidi/lib/python3.8/site-packages/torchvision/transforms/transforms.py:329: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+==> Preparing data
+    # train data:  2800
+    # labeled train data:  2799
+    # test data:  864
+    # val x data: 1300
+    # val p data: 1143
+tensor([ 0.0425, -0.0364, -0.0160,  ...,  0.0307, -0.0668,  0.0299],
+       grad_fn=<CatBackward0>)

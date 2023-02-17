@@ -1,0 +1,633 @@
+Namespace(Patience=50, batch_size=64, dataset='UrineDataset', epoch=50, lr=0.001, saved_dir='./saves/', saved_model_name='VGG16_raw_sz32_Aug_ba64_lr1e3_ep50_lr', train_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/train', val_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/test')
+
+*************************epoch 1*************************
+Train==> Finish 1 epoch, Loss: 0.590168, Acc: 0.691164
+Test==>  Loss: 0.536556, Acc: 0.741462
+The saved model is of epoch 0
+
+*************************epoch 2*************************
+Train==> Finish 2 epoch, Loss: 0.468407, Acc: 0.789879
+Test==>  Loss: 0.468945, Acc: 0.771769
+The saved model is of epoch 1
+
+*************************epoch 3*************************
+Train==> Finish 3 epoch, Loss: 0.431357, Acc: 0.811863
+Test==>  Loss: 0.488479, Acc: 0.751269
+
+*************************epoch 4*************************
+Train==> Finish 4 epoch, Loss: 0.433861, Acc: 0.807296
+Test==>  Loss: 0.449873, Acc: 0.798154
+The saved model is of epoch 3
+
+*************************epoch 5*************************
+Train==> Finish 5 epoch, Loss: 0.385966, Acc: 0.831581
+Test==>  Loss: 0.402196, Acc: 0.824269
+The saved model is of epoch 4
+
+*************************epoch 6*************************
+Train==> Finish 6 epoch, Loss: 0.390797, Acc: 0.830183
+Test==>  Loss: 0.410941, Acc: 0.813346
+
+*************************epoch 7*************************
+Train==> Finish 7 epoch, Loss: 0.378298, Acc: 0.835245
+Test==>  Loss: 0.381525, Acc: 0.834885
+The saved model is of epoch 6
+
+*************************epoch 8*************************
+Train==> Finish 8 epoch, Loss: 0.357712, Acc: 0.844396
+Test==>  Loss: 0.458120, Acc: 0.782731
+
+*************************epoch 9*************************
+Train==> Finish 9 epoch, Loss: 0.359679, Acc: 0.844856
+Test==>  Loss: 0.436157, Acc: 0.803115
+
+*************************epoch 10*************************
+Train==> Finish 10 epoch, Loss: 0.351000, Acc: 0.848644
+Test==>  Loss: 0.520294, Acc: 0.752385
+
+*************************epoch 11*************************
+Train==> Finish 11 epoch, Loss: 0.341204, Acc: 0.854839
+Test==>  Loss: 0.373158, Acc: 0.834538
+
+*************************epoch 12*************************
+Train==> Finish 12 epoch, Loss: 0.338468, Acc: 0.854839
+Test==>  Loss: 0.396780, Acc: 0.823500
+
+*************************epoch 13*************************
+Train==> Finish 13 epoch, Loss: 0.335129, Acc: 0.856839
+Test==>  Loss: 0.358594, Acc: 0.843885
+The saved model is of epoch 12
+
+*************************epoch 14*************************
+Train==> Finish 14 epoch, Loss: 0.354228, Acc: 0.845724
+Test==>  Loss: 0.390608, Acc: 0.823808
+
+*************************epoch 15*************************
+Train==> Finish 15 epoch, Loss: 0.324878, Acc: 0.861105
+Test==>  Loss: 0.417180, Acc: 0.810692
+
+*************************epoch 16*************************
+Train==> Finish 16 epoch, Loss: 0.314832, Acc: 0.866150
+Test==>  Loss: 0.424217, Acc: 0.810577
+
+*************************epoch 17*************************
+Train==> Finish 17 epoch, Loss: 0.342696, Acc: 0.856114
+Test==>  Loss: 0.501692, Acc: 0.757538
+
+*************************epoch 18*************************
+Train==> Finish 18 epoch, Loss: 0.333975, Acc: 0.858716
+Test==>  Loss: 0.392081, Acc: 0.837115
+
+*************************epoch 19*************************
+Train==> Finish 19 epoch, Loss: 0.309016, Acc: 0.869035
+Test==>  Loss: 0.405939, Acc: 0.820615
+
+*************************epoch 20*************************
+Train==> Finish 20 epoch, Loss: 0.294941, Acc: 0.875106
+Test==>  Loss: 0.382989, Acc: 0.826115
+
+*************************epoch 21*************************
+Train==> Finish 21 epoch, Loss: 0.292343, Acc: 0.876664
+Test==>  Loss: 0.537982, Acc: 0.781000
+
+*************************epoch 22*************************
+Train==> Finish 22 epoch, Loss: 0.290136, Acc: 0.878115
+Test==>  Loss: 0.387377, Acc: 0.838500
+
+*************************epoch 23*************************
+Train==> Finish 23 epoch, Loss: 0.300499, Acc: 0.872699
+Test==>  Loss: 0.421975, Acc: 0.801000
+
+*************************epoch 24*************************
+Train==> Finish 24 epoch, Loss: 0.282253, Acc: 0.881478
+Test==>  Loss: 0.397187, Acc: 0.833769
+
+*************************epoch 25*************************
+Train==> Finish 25 epoch, Loss: 0.280924, Acc: 0.880664
+Test==>  Loss: 0.378719, Acc: 0.839962
+
+*************************epoch 26*************************
+Train==> Finish 26 epoch, Loss: 0.290373, Acc: 0.877319
+Test==>  Loss: 0.391697, Acc: 0.835769
+
+*************************epoch 27*************************
+Train==> Finish 27 epoch, Loss: 0.275591, Acc: 0.884611
+Test==>  Loss: 0.478844, Acc: 0.796538
+
+*************************epoch 28*************************
+Train==> Finish 28 epoch, Loss: 0.270014, Acc: 0.887125
+Test==>  Loss: 0.414729, Acc: 0.822615
+
+*************************epoch 29*************************
+Train==> Finish 29 epoch, Loss: 0.260195, Acc: 0.891160
+Test==>  Loss: 0.480072, Acc: 0.809577
+
+*************************epoch 30*************************
+Train==> Finish 30 epoch, Loss: 0.257568, Acc: 0.893161
+Test==>  Loss: 0.510318, Acc: 0.776385
+
+*************************epoch 31*************************
+Train==> Finish 31 epoch, Loss: 0.254438, Acc: 0.894240
+Test==>  Loss: 0.492583, Acc: 0.821077
+
+*************************epoch 32*************************
+Train==> Finish 32 epoch, Loss: 0.251047, Acc: 0.896205
+Test==>  Loss: 0.523024, Acc: 0.785885
+
+*************************epoch 33*************************
+Train==> Finish 33 epoch, Loss: 0.346714, Acc: 0.854963
+Test==>  Loss: 0.391121, Acc: 0.832346
+
+*************************epoch 34*************************
+Train==> Finish 34 epoch, Loss: 0.264490, Acc: 0.889921
+Test==>  Loss: 0.393344, Acc: 0.831385
+
+*************************epoch 35*************************
+Train==> Finish 35 epoch, Loss: 0.246540, Acc: 0.897904
+Test==>  Loss: 0.429192, Acc: 0.825885
+
+*************************epoch 36*************************
+Train==> Finish 36 epoch, Loss: 0.239584, Acc: 0.901002
+Test==>  Loss: 0.510369, Acc: 0.801731
+
+*************************epoch 37*************************
+Train==> Finish 37 epoch, Loss: 0.243235, Acc: 0.900152
+Test==>  Loss: 0.444024, Acc: 0.824962
+
+*************************epoch 38*************************
+Train==> Finish 38 epoch, Loss: 0.233372, Acc: 0.905675
+Test==>  Loss: 0.483568, Acc: 0.805462
+
+*************************epoch 39*************************
+Train==> Finish 39 epoch, Loss: 0.231699, Acc: 0.905091
+Test==>  Loss: 0.440890, Acc: 0.812154
+
+*************************epoch 40*************************
+Train==> Finish 40 epoch, Loss: 0.229168, Acc: 0.906400
+Test==>  Loss: 0.446228, Acc: 0.813885
+
+*************************epoch 41*************************
+Train==> Finish 41 epoch, Loss: 0.224872, Acc: 0.908613
+Test==>  Loss: 0.446571, Acc: 0.814038
+
+*************************epoch 42*************************
+Train==> Finish 42 epoch, Loss: 0.224807, Acc: 0.908507
+Test==>  Loss: 0.421825, Acc: 0.819654
+
+*************************epoch 43*************************
+Train==> Finish 43 epoch, Loss: 0.215929, Acc: 0.911622
+Test==>  Loss: 0.485942, Acc: 0.797423
+
+*************************epoch 44*************************
+Train==> Finish 44 epoch, Loss: 0.210320, Acc: 0.913321
+Test==>  Loss: 0.501355, Acc: 0.817654
+
+*************************epoch 45*************************
+Train==> Finish 45 epoch, Loss: 0.206416, Acc: 0.915144
+Test==>  Loss: 0.464775, Acc: 0.817462
+
+*************************epoch 46*************************
+Train==> Finish 46 epoch, Loss: 0.202772, Acc: 0.917021
+Test==>  Loss: 0.493455, Acc: 0.804731
+
+*************************epoch 47*************************
+Train==> Finish 47 epoch, Loss: 0.201667, Acc: 0.917428
+Test==>  Loss: 0.435524, Acc: 0.818462
+
+*************************epoch 48*************************
+Train==> Finish 48 epoch, Loss: 0.198341, Acc: 0.919587
+Test==>  Loss: 0.651718, Acc: 0.761269
+
+*************************epoch 49*************************
+Train==> Finish 49 epoch, Loss: 0.194068, Acc: 0.919977
+Test==>  Loss: 0.520821, Acc: 0.802962
+
+*************************epoch 50*************************
+Train==> Finish 50 epoch, Loss: 0.187840, Acc: 0.923765
+Test==>  Loss: 0.534082, Acc: 0.781192
+The saved model is of epoch 49
+Confusion Matrix:
+[[11829,1171],
+[4518,8482]]
+count_cancer 984
+count_cancer 937
+count_cancer 856
+count_cancer 710
+count_cancer 821
+count_cancer 865
+count_cancer 745
+count_cancer 722
+count_cancer 620
+count_cancer 767
+count_cancer 897
+count_cancer 747
+count_cancer 989
+count_cancer 337
+count_cancer 69
+count_cancer 19
+count_cancer 45
+count_cancer 117
+count_cancer 6
+count_cancer 28
+count_cancer 49
+count_cancer 109
+count_cancer 14
+count_cancer 402
+count_cancer 32
+count_cancer 43
+Slide level acc is 1.0000
+AUC: 0.4094544852071006
+Namespace(Patience=50, batch_size=64, dataset='UrineDataset', epoch=1, lr=0.001, saved_dir='./saves/', saved_model_name='VGG16_raw_sz32_Aug_ba64_lr1e3_ep50_lr', train_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/train', val_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/test')
+
+*************************epoch 1*************************
+Train==> Finish 1 epoch, Loss: 0.623263, Acc: 0.657569
+Test==>  Loss: 0.564913, Acc: 0.721731
+The saved model is of epoch 1
+The model of last epoch is saved.
+Confusion Matrix:
+[[10765,2235],
+[5000,8000]]
+count_cancer 969
+count_cancer 907
+count_cancer 842
+count_cancer 900
+count_cancer 892
+count_cancer 784
+count_cancer 739
+count_cancer 456
+count_cancer 741
+count_cancer 734
+count_cancer 884
+count_cancer 766
+count_cancer 918
+count_cancer 528
+count_cancer 140
+count_cancer 233
+count_cancer 65
+count_cancer 271
+count_cancer 334
+count_cancer 65
+count_cancer 88
+count_cancer 336
+count_cancer 30
+count_cancer 739
+count_cancer 96
+count_cancer 117
+Slide level acc is 0.8846
+AUC: 0.41306360650887575
+Namespace(Patience=50, batch_size=64, dataset='UrineDataset', epoch=1, lr=0.001, saved_dir='./saves/', saved_model_name='VGG16_raw_sz32_Aug_ba64_lr1e3_ep50_lr', train_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/train', val_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/test')
+
+*************************epoch 1*************************
+Train==> Finish 1 epoch, Loss: 0.600450, Acc: 0.687854
+Test==>  Loss: 0.643569, Acc: 0.655731
+The saved model is of epoch 1
+The model of last epoch is saved.
+Confusion Matrix:
+[[12465,535],
+[8416,4584]]
+count_cancer 843
+count_cancer 724
+count_cancer 629
+count_cancer 710
+count_cancer 651
+count_cancer 398
+count_cancer 449
+count_cancer 352
+count_cancer 416
+count_cancer 303
+count_cancer 602
+count_cancer 299
+count_cancer 721
+count_cancer 175
+count_cancer 13
+count_cancer 20
+count_cancer 7
+count_cancer 46
+count_cancer 15
+count_cancer 10
+count_cancer 25
+count_cancer 32
+count_cancer 1
+count_cancer 443
+count_cancer 9
+count_cancer 26
+Slide level acc is 0.7692
+AUC: 0.24138165384615387
+Namespace(Patience=50, batch_size=64, dataset='UrineDataset', epoch=1, lr=0.001, saved_dir='./saves/', saved_model_name='VGG16_raw_sz32_Aug_ba64_lr1e3_ep50_lr', train_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/train', val_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/test')
+
+*************************epoch 1*************************
+Train==> Finish 1 epoch, Loss: 0.485141, Acc: 0.783560
+Test==>  Loss: 0.498073, Acc: 0.757846
+The saved model is of epoch 1
+The model of last epoch is saved.
+Confusion Matrix:
+[[11519,1481],
+[4815,8185]]
+count_cancer 974
+count_cancer 915
+count_cancer 907
+count_cancer 846
+count_cancer 885
+count_cancer 738
+count_cancer 771
+count_cancer 659
+count_cancer 664
+count_cancer 715
+count_cancer 846
+count_cancer 733
+count_cancer 967
+count_cancer 389
+count_cancer 97
+count_cancer 58
+count_cancer 43
+count_cancer 109
+count_cancer 55
+count_cancer 62
+count_cancer 104
+count_cancer 134
+count_cancer 22
+count_cancer 693
+count_cancer 83
+count_cancer 67
+Slide level acc is 0.9615
+AUC: 0.5222319437869822
+Namespace(Patience=50, batch_size=64, dataset='UrineDataset', epoch=50, lr=0.001, saved_dir='./saves/', saved_model_name='VGG16_raw_sz32_Aug_ba64_lr1e3_ep50_lr', train_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/train', val_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/test')
+
+*************************epoch 1*************************
+Train==> Finish 1 epoch, Loss: 0.457988, Acc: 0.799331
+Test==>  Loss: 0.522847, Acc: 0.776231
+The saved model is of epoch 1
+
+*************************epoch 2*************************
+Train==> Finish 2 epoch, Loss: 0.464291, Acc: 0.797189
+Test==>  Loss: 0.494327, Acc: 0.751808
+
+*************************epoch 3*************************
+Train==> Finish 3 epoch, Loss: 0.417391, Acc: 0.815509
+Test==>  Loss: 0.455139, Acc: 0.790308
+The saved model is of epoch 3
+
+*************************epoch 4*************************
+Train==> Finish 4 epoch, Loss: 0.435140, Acc: 0.808925
+Test==>  Loss: 0.415682, Acc: 0.819885
+The saved model is of epoch 4
+
+*************************epoch 5*************************
+Train==> Finish 5 epoch, Loss: 0.427554, Acc: 0.813898
+Test==>  Loss: 0.527755, Acc: 0.739615
+
+*************************epoch 6*************************
+Train==> Finish 6 epoch, Loss: 0.397272, Acc: 0.825970
+Test==>  Loss: 0.468011, Acc: 0.793500
+
+*************************epoch 7*************************
+Train==> Finish 7 epoch, Loss: 0.379625, Acc: 0.834909
+Test==>  Loss: 0.453781, Acc: 0.777154
+
+*************************epoch 8*************************
+Train==> Finish 8 epoch, Loss: 0.372493, Acc: 0.836891
+Test==>  Loss: 0.430562, Acc: 0.797692
+
+*************************epoch 9*************************
+Train==> Finish 9 epoch, Loss: 0.362722, Acc: 0.841900
+Test==>  Loss: 0.420539, Acc: 0.793808
+
+*************************epoch 10*************************
+Train==> Finish 10 epoch, Loss: 0.378926, Acc: 0.836041
+Test==>  Loss: 0.418996, Acc: 0.806423
+
+*************************epoch 11*************************
+Train==> Finish 11 epoch, Loss: 0.342755, Acc: 0.849547
+Test==>  Loss: 0.404726, Acc: 0.820923
+The saved model is of epoch 11
+
+*************************epoch 12*************************
+Train==> Finish 12 epoch, Loss: 0.335649, Acc: 0.854131
+Test==>  Loss: 0.396015, Acc: 0.826615
+The saved model is of epoch 12
+
+*************************epoch 13*************************
+Train==> Finish 13 epoch, Loss: 0.344771, Acc: 0.851441
+Test==>  Loss: 0.442800, Acc: 0.788423
+
+*************************epoch 14*************************
+Train==> Finish 14 epoch, Loss: 0.357218, Acc: 0.846768
+Test==>  Loss: 0.405288, Acc: 0.819000
+
+*************************epoch 15*************************
+Train==> Finish 15 epoch, Loss: 0.333007, Acc: 0.857034
+Test==>  Loss: 0.375464, Acc: 0.831231
+The saved model is of epoch 15
+
+*************************epoch 16*************************
+Train==> Finish 16 epoch, Loss: 0.343108, Acc: 0.853883
+Test==>  Loss: 0.386644, Acc: 0.829000
+
+*************************epoch 17*************************
+Train==> Finish 17 epoch, Loss: 0.318192, Acc: 0.863601
+Test==>  Loss: 0.404504, Acc: 0.818538
+
+*************************epoch 18*************************
+Train==> Finish 18 epoch, Loss: 0.312831, Acc: 0.866327
+Test==>  Loss: 0.401324, Acc: 0.825692
+
+*************************epoch 19*************************
+Train==> Finish 19 epoch, Loss: 0.318524, Acc: 0.864574
+Test==>  Loss: 0.367611, Acc: 0.838346
+The saved model is of epoch 19
+
+*************************epoch 20*************************
+Train==> Finish 20 epoch, Loss: 0.316221, Acc: 0.864167
+Test==>  Loss: 0.416871, Acc: 0.811462
+
+*************************epoch 21*************************
+Train==> Finish 21 epoch, Loss: 0.308181, Acc: 0.867690
+Test==>  Loss: 0.388603, Acc: 0.832038
+
+*************************epoch 22*************************
+Train==> Finish 22 epoch, Loss: 0.300535, Acc: 0.872487
+Test==>  Loss: 0.409830, Acc: 0.822577
+
+*************************epoch 23*************************
+Train==> Finish 23 epoch, Loss: 0.294862, Acc: 0.875283
+Test==>  Loss: 0.462158, Acc: 0.803269
+
+*************************epoch 24*************************
+Train==> Finish 24 epoch, Loss: 0.292647, Acc: 0.875513
+Test==>  Loss: 0.424226, Acc: 0.805615
+
+*************************epoch 25*************************
+Train==> Finish 25 epoch, Loss: 0.288257, Acc: 0.877443
+Test==>  Loss: 0.449282, Acc: 0.794500
+
+*************************epoch 26*************************
+Train==> Finish 26 epoch, Loss: 0.284508, Acc: 0.880753
+Test==>  Loss: 0.430369, Acc: 0.810231
+
+*************************epoch 27*************************
+Train==> Finish 27 epoch, Loss: 0.276527, Acc: 0.883903
+Test==>  Loss: 0.397758, Acc: 0.830615
+
+*************************epoch 28*************************
+Train==> Finish 28 epoch, Loss: 0.317774, Acc: 0.864344
+Test==>  Loss: 0.439112, Acc: 0.798154
+
+*************************epoch 29*************************
+Train==> Finish 29 epoch, Loss: 0.304722, Acc: 0.871141
+Test==>  Loss: 0.416175, Acc: 0.814808
+
+*************************epoch 30*************************
+Train==> Finish 30 epoch, Loss: 0.273660, Acc: 0.884824
+Test==>  Loss: 0.441725, Acc: 0.819154
+
+*************************epoch 31*************************
+Train==> Finish 31 epoch, Loss: 0.265657, Acc: 0.889532
+Test==>  Loss: 0.375096, Acc: 0.838000
+
+*************************epoch 32*************************
+Train==> Finish 32 epoch, Loss: 0.262314, Acc: 0.892258
+Test==>  Loss: 0.390824, Acc: 0.830462
+
+*************************epoch 33*************************
+Train==> Finish 33 epoch, Loss: 0.261130, Acc: 0.891762
+Test==>  Loss: 0.416379, Acc: 0.815423
+
+*************************epoch 34*************************
+Train==> Finish 34 epoch, Loss: 0.257329, Acc: 0.892364
+Test==>  Loss: 0.369933, Acc: 0.840500
+The saved model is of epoch 34
+
+*************************epoch 35*************************
+Train==> Finish 35 epoch, Loss: 0.252718, Acc: 0.894223
+Test==>  Loss: 0.411687, Acc: 0.821615
+
+*************************epoch 36*************************
+Train==> Finish 36 epoch, Loss: 0.250604, Acc: 0.896382
+Test==>  Loss: 0.411531, Acc: 0.827308
+
+*************************epoch 37*************************
+Train==> Finish 37 epoch, Loss: 0.283524, Acc: 0.883443
+Test==>  Loss: 0.386287, Acc: 0.835577
+
+*************************epoch 38*************************
+Train==> Finish 38 epoch, Loss: 0.253423, Acc: 0.893815
+Test==>  Loss: 0.439221, Acc: 0.817538
+
+*************************epoch 39*************************
+Train==> Finish 39 epoch, Loss: 0.256635, Acc: 0.893762
+Test==>  Loss: 0.440873, Acc: 0.799038
+
+*************************epoch 40*************************
+Train==> Finish 40 epoch, Loss: 0.243569, Acc: 0.900135
+Test==>  Loss: 0.372016, Acc: 0.840269
+
+*************************epoch 41*************************
+Train==> Finish 41 epoch, Loss: 0.237205, Acc: 0.902489
+Test==>  Loss: 0.403368, Acc: 0.820692
+
+*************************epoch 42*************************
+Train==> Finish 42 epoch, Loss: 0.275719, Acc: 0.885337
+Test==>  Loss: 0.447935, Acc: 0.799462
+
+*************************epoch 43*************************
+Train==> Finish 43 epoch, Loss: 0.241082, Acc: 0.901179
+Test==>  Loss: 0.409419, Acc: 0.822731
+
+*************************epoch 44*************************
+Train==> Finish 44 epoch, Loss: 0.234287, Acc: 0.902559
+Test==>  Loss: 0.420884, Acc: 0.822615
+
+*************************epoch 45*************************
+Train==> Finish 45 epoch, Loss: 0.225536, Acc: 0.907551
+Test==>  Loss: 0.409757, Acc: 0.815462
+
+*************************epoch 46*************************
+Train==> Finish 46 epoch, Loss: 0.224322, Acc: 0.907675
+Test==>  Loss: 0.417751, Acc: 0.821923
+
+*************************epoch 47*************************
+Train==> Finish 47 epoch, Loss: 0.221935, Acc: 0.908347
+Test==>  Loss: 0.429760, Acc: 0.822385
+
+*************************epoch 48*************************
+Train==> Finish 48 epoch, Loss: 0.238658, Acc: 0.902524
+Test==>  Loss: 0.435540, Acc: 0.818192
+
+*************************epoch 49*************************
+Train==> Finish 49 epoch, Loss: 0.230894, Acc: 0.906170
+Test==>  Loss: 0.411428, Acc: 0.825192
+
+*************************epoch 50*************************
+Train==> Finish 50 epoch, Loss: 0.211153, Acc: 0.914366
+Test==>  Loss: 0.403807, Acc: 0.828923
+The saved model is of epoch 50
+The model of last epoch is saved.
+Confusion Matrix:
+[[11056,1944],
+[2504,10496]]
+count_cancer 986
+count_cancer 961
+count_cancer 919
+count_cancer 907
+count_cancer 889
+count_cancer 922
+count_cancer 829
+count_cancer 895
+count_cancer 871
+count_cancer 933
+count_cancer 953
+count_cancer 932
+count_cancer 990
+count_cancer 469
+count_cancer 139
+count_cancer 53
+count_cancer 87
+count_cancer 115
+count_cancer 38
+count_cancer 28
+count_cancer 64
+count_cancer 264
+count_cancer 30
+count_cancer 418
+count_cancer 45
+count_cancer 80
+Slide level acc is 1.0000
+AUC: 0.5312192337278107
+Namespace(Patience=50, batch_size=64, dataset='UrineDataset', epoch=1, lr=0.001, saved_dir='./saves/', saved_model_name='VGG16_raw_sz32_Aug_ba64_lr1e3_ep50_lr', train_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/train', val_dataset_path='/bigdata/projects/beidi/dataset/urine/raw_cell/test')
+
+*************************epoch 1*************************
+Train==> Finish 1 epoch, Loss: 0.213546, Acc: 0.913534
+Test==>  Loss: 0.507988, Acc: 0.803846
+The saved model is of epoch 1
+The model of last epoch is saved.
+Confusion Matrix:
+[[11738,1262],
+[3838,9162]]
+count_cancer 986
+count_cancer 951
+count_cancer 899
+count_cancer 794
+count_cancer 882
+count_cancer 880
+count_cancer 820
+count_cancer 787
+count_cancer 780
+count_cancer 901
+count_cancer 927
+count_cancer 802
+count_cancer 990
+count_cancer 331
+count_cancer 71
+count_cancer 28
+count_cancer 73
+count_cancer 67
+count_cancer 7
+count_cancer 27
+count_cancer 46
+count_cancer 119
+count_cancer 14
+count_cancer 396
+count_cancer 22
+count_cancer 41
+Slide level acc is 1.0000
+AUC: 0.44071292603550294

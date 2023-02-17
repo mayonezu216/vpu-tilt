@@ -1,0 +1,608 @@
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[ 0 41]
+ [ 0 32]]
+AUC: 0.5
+Recall: 1.0
+Precision: 0.4383561643835616
+F1 score: 0.6095238095238095
+/fast/beidi/vpu-tilt/vpu_GNN.py:440: RuntimeWarning: invalid value encountered in scalar divide
+  print('Sensitivity:', confu_matrix[0,0]/(confu_matrix[0,0]+confu_matrix[1,0]))
+Sensitivity: nan
+Specificity: 0.4383561643835616
+Epoch: 000, Train Acc: 0.5088, Train Loss: 0.7168, Test Acc: 0.4384, Test Loss: 0.8895
+Confusion Matrix:
+[[ 5 36]
+ [ 0 32]]
+AUC: 0.5609756097560976
+Recall: 1.0
+Precision: 0.47058823529411764
+F1 score: 0.6399999999999999
+Sensitivity: 1.0
+Specificity: 0.47058823529411764
+Epoch: 001, Train Acc: 0.4912, Train Loss: 0.7042, Test Acc: 0.5068, Test Loss: 0.6972
+Confusion Matrix:
+[[26 15]
+ [ 1 31]]
+AUC: 0.8014481707317074
+Recall: 0.96875
+Precision: 0.6739130434782609
+F1 score: 0.7948717948717949
+Sensitivity: 0.9629629629629629
+Specificity: 0.6739130434782609
+Epoch: 002, Train Acc: 0.6140, Train Loss: 0.5596, Test Acc: 0.7808, Test Loss: 0.5788
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+AUC: 0.7705792682926829
+Recall: 0.6875
+Precision: 0.7857142857142857
+F1 score: 0.7333333333333334
+Sensitivity: 0.7777777777777778
+Specificity: 0.7857142857142857
+Epoch: 003, Train Acc: 0.8772, Train Loss: 0.4984, Test Acc: 0.7808, Test Loss: 0.5409
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+AUC: 0.8243140243902439
+Recall: 0.84375
+Precision: 0.7714285714285715
+F1 score: 0.8059701492537314
+Sensitivity: 0.868421052631579
+Specificity: 0.7714285714285715
+Epoch: 004, Train Acc: 0.9123, Train Loss: 0.4756, Test Acc: 0.8219, Test Loss: 0.4914
+Confusion Matrix:
+[[29 12]
+ [ 2 30]]
+AUC: 0.8224085365853658
+Recall: 0.9375
+Precision: 0.7142857142857143
+F1 score: 0.8108108108108109
+Sensitivity: 0.9354838709677419
+Specificity: 0.7142857142857143
+Epoch: 005, Train Acc: 0.8947, Train Loss: 0.3850, Test Acc: 0.8082, Test Loss: 0.4705
+Confusion Matrix:
+[[29 12]
+ [ 2 30]]
+AUC: 0.8224085365853658
+Recall: 0.9375
+Precision: 0.7142857142857143
+F1 score: 0.8108108108108109
+Sensitivity: 0.9354838709677419
+Specificity: 0.7142857142857143
+Epoch: 006, Train Acc: 0.8772, Train Loss: 0.3217, Test Acc: 0.8082, Test Loss: 0.4680
+Confusion Matrix:
+[[31 10]
+ [ 4 28]]
+AUC: 0.8155487804878049
+Recall: 0.875
+Precision: 0.7368421052631579
+F1 score: 0.7999999999999999
+Sensitivity: 0.8857142857142857
+Specificity: 0.7368421052631579
+Epoch: 007, Train Acc: 0.8947, Train Loss: 0.2842, Test Acc: 0.8082, Test Loss: 0.4540
+Confusion Matrix:
+[[34  7]
+ [ 7 25]]
+AUC: 0.8052591463414633
+Recall: 0.78125
+Precision: 0.78125
+F1 score: 0.78125
+Sensitivity: 0.8292682926829268
+Specificity: 0.78125
+Epoch: 008, Train Acc: 0.8947, Train Loss: 0.2622, Test Acc: 0.8082, Test Loss: 0.4377
+Confusion Matrix:
+[[35  6]
+ [ 9 23]]
+AUC: 0.786204268292683
+Recall: 0.71875
+Precision: 0.7931034482758621
+F1 score: 0.7540983606557378
+Sensitivity: 0.7954545454545454
+Specificity: 0.7931034482758621
+Epoch: 009, Train Acc: 0.9123, Train Loss: 0.2488, Test Acc: 0.7945, Test Loss: 0.4613
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+AUC: 0.8243140243902439
+Recall: 0.84375
+Precision: 0.7714285714285715
+F1 score: 0.8059701492537314
+Sensitivity: 0.868421052631579
+Specificity: 0.7714285714285715
+Epoch: 010, Train Acc: 0.8947, Train Loss: 0.2679, Test Acc: 0.8219, Test Loss: 0.4966
+Confusion Matrix:
+[[32  9]
+ [ 4 28]]
+AUC: 0.8277439024390244
+Recall: 0.875
+Precision: 0.7567567567567568
+F1 score: 0.8115942028985507
+Sensitivity: 0.8888888888888888
+Specificity: 0.7567567567567568
+Epoch: 011, Train Acc: 0.8947, Train Loss: 0.2543, Test Acc: 0.8219, Test Loss: 0.5567
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+AUC: 0.8243140243902439
+Recall: 0.84375
+Precision: 0.7714285714285715
+F1 score: 0.8059701492537314
+Sensitivity: 0.868421052631579
+Specificity: 0.7714285714285715
+Epoch: 012, Train Acc: 0.8947, Train Loss: 0.2620, Test Acc: 0.8219, Test Loss: 0.5592
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+AUC: 0.8174542682926829
+Recall: 0.78125
+Precision: 0.8064516129032258
+F1 score: 0.7936507936507936
+Sensitivity: 0.8333333333333334
+Specificity: 0.8064516129032258
+Epoch: 013, Train Acc: 0.8772, Train Loss: 0.2629, Test Acc: 0.8219, Test Loss: 0.5373
+Confusion Matrix:
+[[35  6]
+ [10 22]]
+AUC: 0.7705792682926829
+Recall: 0.6875
+Precision: 0.7857142857142857
+F1 score: 0.7333333333333334
+Sensitivity: 0.7777777777777778
+Specificity: 0.7857142857142857
+Epoch: 014, Train Acc: 0.8947, Train Loss: 0.2728, Test Acc: 0.7808, Test Loss: 0.5397
+Confusion Matrix:
+[[35  6]
+ [ 8 24]]
+AUC: 0.8018292682926829
+Recall: 0.75
+Precision: 0.8
+F1 score: 0.7741935483870969
+Sensitivity: 0.813953488372093
+Specificity: 0.8
+Epoch: 015, Train Acc: 0.8772, Train Loss: 0.2554, Test Acc: 0.8082, Test Loss: 0.5383
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+AUC: 0.8243140243902439
+Recall: 0.84375
+Precision: 0.7714285714285715
+F1 score: 0.8059701492537314
+Sensitivity: 0.868421052631579
+Specificity: 0.7714285714285715
+Epoch: 016, Train Acc: 0.8947, Train Loss: 0.2687, Test Acc: 0.8219, Test Loss: 0.5596
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+AUC: 0.8243140243902439
+Recall: 0.84375
+Precision: 0.7714285714285715
+F1 score: 0.8059701492537314
+Sensitivity: 0.868421052631579
+Specificity: 0.7714285714285715
+Epoch: 017, Train Acc: 0.8772, Train Loss: 0.2481, Test Acc: 0.8219, Test Loss: 0.5679
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+AUC: 0.8243140243902439
+Recall: 0.84375
+Precision: 0.7714285714285715
+F1 score: 0.8059701492537314
+Sensitivity: 0.868421052631579
+Specificity: 0.7714285714285715
+Epoch: 018, Train Acc: 0.8947, Train Loss: 0.2347, Test Acc: 0.8219, Test Loss: 0.5411
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 019, Train Acc: 0.8947, Train Loss: 0.2433, Test Acc: 0.8356, Test Loss: 0.5069
+Confusion Matrix:
+[[35  6]
+ [ 8 24]]
+AUC: 0.8018292682926829
+Recall: 0.75
+Precision: 0.8
+F1 score: 0.7741935483870969
+Sensitivity: 0.813953488372093
+Specificity: 0.8
+Epoch: 020, Train Acc: 0.8947, Train Loss: 0.2260, Test Acc: 0.8082, Test Loss: 0.4877
+Confusion Matrix:
+[[35  6]
+ [ 8 24]]
+AUC: 0.8018292682926829
+Recall: 0.75
+Precision: 0.8
+F1 score: 0.7741935483870969
+Sensitivity: 0.813953488372093
+Specificity: 0.8
+Epoch: 021, Train Acc: 0.8947, Train Loss: 0.2315, Test Acc: 0.8082, Test Loss: 0.4780
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 022, Train Acc: 0.8947, Train Loss: 0.2156, Test Acc: 0.8356, Test Loss: 0.4844
+Confusion Matrix:
+[[33  8]
+ [ 5 27]]
+AUC: 0.8243140243902439
+Recall: 0.84375
+Precision: 0.7714285714285715
+F1 score: 0.8059701492537314
+Sensitivity: 0.868421052631579
+Specificity: 0.7714285714285715
+Epoch: 023, Train Acc: 0.8947, Train Loss: 0.2206, Test Acc: 0.8219, Test Loss: 0.4864
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 024, Train Acc: 0.8772, Train Loss: 0.2343, Test Acc: 0.8356, Test Loss: 0.4703
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+AUC: 0.8174542682926829
+Recall: 0.78125
+Precision: 0.8064516129032258
+F1 score: 0.7936507936507936
+Sensitivity: 0.8333333333333334
+Specificity: 0.8064516129032258
+Epoch: 025, Train Acc: 0.8947, Train Loss: 0.2220, Test Acc: 0.8219, Test Loss: 0.4529
+Confusion Matrix:
+[[35  6]
+ [ 7 25]]
+AUC: 0.8174542682926829
+Recall: 0.78125
+Precision: 0.8064516129032258
+F1 score: 0.7936507936507936
+Sensitivity: 0.8333333333333334
+Specificity: 0.8064516129032258
+Epoch: 026, Train Acc: 0.8947, Train Loss: 0.2108, Test Acc: 0.8219, Test Loss: 0.4480
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 027, Train Acc: 0.9123, Train Loss: 0.2140, Test Acc: 0.8356, Test Loss: 0.4512
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 028, Train Acc: 0.8772, Train Loss: 0.2328, Test Acc: 0.8356, Test Loss: 0.4650
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 029, Train Acc: 0.9123, Train Loss: 0.2119, Test Acc: 0.8356, Test Loss: 0.4655
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 030, Train Acc: 0.9123, Train Loss: 0.2167, Test Acc: 0.8356, Test Loss: 0.4648
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 031, Train Acc: 0.8947, Train Loss: 0.2142, Test Acc: 0.8356, Test Loss: 0.4637
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 032, Train Acc: 0.8947, Train Loss: 0.2065, Test Acc: 0.8356, Test Loss: 0.4620
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 033, Train Acc: 0.8947, Train Loss: 0.2198, Test Acc: 0.8356, Test Loss: 0.4606
+Confusion Matrix:
+[[34  7]
+ [ 5 27]]
+AUC: 0.8365091463414633
+Recall: 0.84375
+Precision: 0.7941176470588235
+F1 score: 0.8181818181818182
+Sensitivity: 0.8717948717948718
+Specificity: 0.7941176470588235
+Epoch: 034, Train Acc: 0.8947, Train Loss: 0.2232, Test Acc: 0.8356, Test Loss: 0.4594
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 035, Train Acc: 0.8772, Train Loss: 0.2158, Test Acc: 0.8493, Test Loss: 0.4585
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 036, Train Acc: 0.9123, Train Loss: 0.2133, Test Acc: 0.8493, Test Loss: 0.4579
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 037, Train Acc: 0.8947, Train Loss: 0.2129, Test Acc: 0.8356, Test Loss: 0.4580
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 038, Train Acc: 0.8947, Train Loss: 0.1999, Test Acc: 0.8356, Test Loss: 0.4585
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 039, Train Acc: 0.9123, Train Loss: 0.2006, Test Acc: 0.8356, Test Loss: 0.4594
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 040, Train Acc: 0.9123, Train Loss: 0.2088, Test Acc: 0.8356, Test Loss: 0.4608
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 041, Train Acc: 0.9123, Train Loss: 0.2264, Test Acc: 0.8356, Test Loss: 0.4622
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 042, Train Acc: 0.8947, Train Loss: 0.2141, Test Acc: 0.8356, Test Loss: 0.4638
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 043, Train Acc: 0.8772, Train Loss: 0.2090, Test Acc: 0.8493, Test Loss: 0.4656
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 044, Train Acc: 0.8947, Train Loss: 0.2155, Test Acc: 0.8493, Test Loss: 0.4673
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 045, Train Acc: 0.8947, Train Loss: 0.2217, Test Acc: 0.8493, Test Loss: 0.4688
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 046, Train Acc: 0.9123, Train Loss: 0.1996, Test Acc: 0.8493, Test Loss: 0.4705
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 047, Train Acc: 0.8772, Train Loss: 0.2257, Test Acc: 0.8493, Test Loss: 0.4714
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 048, Train Acc: 0.9123, Train Loss: 0.1999, Test Acc: 0.8493, Test Loss: 0.4721
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 049, Train Acc: 0.9123, Train Loss: 0.2060, Test Acc: 0.8493, Test Loss: 0.4730
+Confusion Matrix:
+[[35  6]
+ [ 5 27]]
+AUC: 0.848704268292683
+Recall: 0.84375
+Precision: 0.8181818181818182
+F1 score: 0.8307692307692308
+Sensitivity: 0.875
+Specificity: 0.8181818181818182
+Epoch: 050, Train Acc: 0.9123, Train Loss: 0.2154, Test Acc: 0.8493, Test Loss: 0.4735
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 051, Train Acc: 0.9123, Train Loss: 0.2061, Test Acc: 0.8356, Test Loss: 0.4739
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 052, Train Acc: 0.9123, Train Loss: 0.2093, Test Acc: 0.8356, Test Loss: 0.4747
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 053, Train Acc: 0.8947, Train Loss: 0.2014, Test Acc: 0.8356, Test Loss: 0.4752
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 054, Train Acc: 0.9298, Train Loss: 0.1861, Test Acc: 0.8356, Test Loss: 0.4753
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 055, Train Acc: 0.9123, Train Loss: 0.2016, Test Acc: 0.8356, Test Loss: 0.4763
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 056, Train Acc: 0.8947, Train Loss: 0.1994, Test Acc: 0.8356, Test Loss: 0.4775
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 057, Train Acc: 0.9298, Train Loss: 0.2099, Test Acc: 0.8356, Test Loss: 0.4792
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 058, Train Acc: 0.8947, Train Loss: 0.2020, Test Acc: 0.8356, Test Loss: 0.4808
+Confusion Matrix:
+[[35  6]
+ [ 6 26]]
+AUC: 0.8330792682926829
+Recall: 0.8125
+Precision: 0.8125
+F1 score: 0.8125
+Sensitivity: 0.8536585365853658
+Specificity: 0.8125
+Epoch: 059, Train Acc: 0.9298, Train Loss: 0.2085, Test Acc: 0.8356, Test Loss: 0.4823

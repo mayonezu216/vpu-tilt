@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "sliding_window.py", line 210, in <module>
+    from openslide import open_slide
+ModuleNotFoundError: No module named 'openslide'

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71894cad-782e-4c51-8cc5-4e29b43131e4" name="tealab.ece.ubc.ca">
+        <fileTransfer rootFolder="/fast/beidi/vpu-tilt" accessType="SFTP" host="tealab.ece.ubc.ca" port="22" sshConfigId="810b2f88-8296-4077-84e8-76aeee5b0848" sshConfig="beidiz@tealab.ece.ubc.ca:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="1b2342d0-3660-4d98-825b-d6b3d0c9c1e3" name="10.19.40.9">
+        <fileTransfer rootFolder="/bigdata/projects/beidi/git/vpu-tilt" accessType="SFTP" host="10.19.40.9" port="22" sshConfigId="1eda5d7d-ad0c-42ee-a52d-ea1a279638eb" sshConfig="tealab@10.19.40.9:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

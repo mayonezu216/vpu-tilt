@@ -1,0 +1,536 @@
+/data/miniconda3/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+==> Preparing data
+    # train data:  28000
+    # labeled train data:  28496
+    # test data:  864
+    # val x data: 13000
+    # val p data: 13000
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Train Epoch: 0	 phi_loss: -0.2048   var_loss: -0.2224   reg_loss: 0.5867   Test accuracy: 0.7928   Val var loss: -0.6693
+Learning rate changes to 5e-05
+Train Epoch: 1	 phi_loss: -0.6546   var_loss: -0.6963   reg_loss: 1.3923   Test accuracy: 0.8079   Val var loss: -0.7483
+Train Epoch: 2	 phi_loss: -0.6960   var_loss: -0.7369   reg_loss: 1.3637   Test accuracy: 0.7940   Val var loss: -0.8003
+Learning rate changes to 2.5e-05
+Train Epoch: 3	 phi_loss: -0.7107   var_loss: -0.7564   reg_loss: 1.5218   Test accuracy: 0.8067   Val var loss: -0.8157
+Train Epoch: 4	 phi_loss: -0.7303   var_loss: -0.7693   reg_loss: 1.3022   Test accuracy: 0.7882   Val var loss: -0.8368
+Learning rate changes to 1.25e-05
+Train Epoch: 5	 phi_loss: -0.7348   var_loss: -0.7819   reg_loss: 1.5707   Test accuracy: 0.8160   Val var loss: -0.8322
+Train Epoch: 6	 phi_loss: -0.7415   var_loss: -0.7869   reg_loss: 1.5136   Test accuracy: 0.8171   Val var loss: -0.8360
+Train Epoch: 7	 phi_loss: -0.7538   var_loss: -0.7948   reg_loss: 1.3661   Test accuracy: 0.8194   Val var loss: -0.8431
+Train Epoch: 8	 phi_loss: -0.7621   var_loss: -0.8042   reg_loss: 1.4046   Test accuracy: 0.7859   Val var loss: -0.8650
+Train Epoch: 9	 phi_loss: -0.7664   var_loss: -0.8123   reg_loss: 1.5288   Test accuracy: 0.8171   Val var loss: -0.8516
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-24117
+/data/miniconda3/lib/python3.8/site-packages/torchvision/transforms/transforms.py:332: UserWarning: Argument 'interpolation' of type int is deprecated since 0.13 and will be removed in 0.15. Please use InterpolationMode enum.
+  warnings.warn(
+Predicting slide BD21-24117, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-23300
+Predicting slide BD20-23300, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-15806
+Predicting slide BD22-15806, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-6492
+Predicting slide BD22-6492, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-12977
+Predicting slide BD22-12977, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-4530
+Predicting slide BD21-4530, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-17908
+Predicting slide BD21-17908, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-15802
+Predicting slide BD22-15802, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-241
+Predicting slide BD21-241, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-12090
+Predicting slide BD22-12090, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-17851
+Predicting slide BD22-17851, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-14191
+Predicting slide BD21-14191, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-9451
+Predicting slide BD22-9451, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-22396
+Predicting slide BD21-22396, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-5556
+Predicting slide BD20-5556, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-11302
+Predicting slide BD21-11302, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD22-2223
+Predicting slide BD22-2223, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-8432
+Predicting slide BD20-8432, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-6729
+Predicting slide BD21-6729, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-8435
+Predicting slide BD20-8435, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-7612
+Predicting slide BD20-7612, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD19-28606
+Predicting slide BD19-28606, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-7294
+Predicting slide BD21-7294, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-1325
+Predicting slide BD20-1325, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-3284
+Predicting slide BD20-3284, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-2807
+Predicting slide BD21-2807, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD21-649
+Predicting slide BD21-649, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/cancer/BD20-17501
+Predicting slide BD20-17501, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15809
+Predicting slide BD22-15809, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15729
+Predicting slide BD22-15729, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15800
+Predicting slide BD22-15800, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15492
+Predicting slide BD22-15492, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15962
+Predicting slide BD22-15962, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15956
+Predicting slide BD22-15956, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15797
+Predicting slide BD22-15797, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15307
+Predicting slide BD22-15307, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15958
+Predicting slide BD22-15958, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15510
+Predicting slide BD22-15510, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15867
+Predicting slide BD22-15867, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15805
+Predicting slide BD22-15805, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15392
+Predicting slide BD22-15392, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15302
+Predicting slide BD22-15302, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-16180
+Predicting slide BD22-16180, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-16177
+Predicting slide BD22-16177, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15493
+Predicting slide BD22-15493, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15491
+Predicting slide BD22-15491, the embedding shape is (496, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15728
+Predicting slide BD22-15728, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15488
+Predicting slide BD22-15488, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15808
+Predicting slide BD22-15808, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15480
+Predicting slide BD22-15480, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15868
+Predicting slide BD22-15868, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15804
+Predicting slide BD22-15804, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15957
+Predicting slide BD22-15957, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-16110
+Predicting slide BD22-16110, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15663
+Predicting slide BD22-15663, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-15393
+Predicting slide BD22-15393, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/train/benign/BD22-16108
+Predicting slide BD22-16108, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD20-23971
+Predicting slide BD20-23971, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD22-7443
+Predicting slide BD22-7443, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD20-9586
+Predicting slide BD20-9586, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD19-31179
+Predicting slide BD19-31179, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD21-17126
+Predicting slide BD21-17126, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD21-17802
+Predicting slide BD21-17802, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD21-17125
+Predicting slide BD21-17125, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD21-21525
+Predicting slide BD21-21525, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD20-5549
+Predicting slide BD20-5549, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD22-5594
+Predicting slide BD22-5594, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD20-18022
+Predicting slide BD20-18022, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD22-5595
+Predicting slide BD22-5595, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/cancer/BD21-7767
+Predicting slide BD21-7767, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15487
+Predicting slide BD22-15487, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15506
+Predicting slide BD22-15506, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-16107
+Predicting slide BD22-16107, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15966
+Predicting slide BD22-15966, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-16109
+Predicting slide BD22-16109, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-16181
+Predicting slide BD22-16181, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15730
+Predicting slide BD22-15730, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15326
+Predicting slide BD22-15326, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15801
+Predicting slide BD22-15801, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15960
+Predicting slide BD22-15960, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15799
+Predicting slide BD22-15799, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15324
+Predicting slide BD22-15324, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/benign/BD22-15959
+Predicting slide BD22-15959, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19509
+Predicting slide BD22-19509, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21063
+Predicting slide BD22-21063, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21381
+Predicting slide BD22-21381, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21883
+Predicting slide BD22-21883, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19841
+Predicting slide BD22-19841, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19487
+Predicting slide BD22-19487, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19389
+Predicting slide BD22-19389, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19512
+Predicting slide BD22-19512, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19607
+Predicting slide BD22-19607, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-22637
+Predicting slide BD22-22637, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19516
+Predicting slide BD22-19516, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19387
+Predicting slide BD22-19387, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-20624
+Predicting slide BD22-20624, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21605
+Predicting slide BD22-21605, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19485
+Predicting slide BD22-19485, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21879
+Predicting slide BD22-21879, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21652
+Predicting slide BD22-21652, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21225
+Predicting slide BD22-21225, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21382
+Predicting slide BD22-21382, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21189
+Predicting slide BD22-21189, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-20697
+Predicting slide BD22-20697, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-22762
+Predicting slide BD22-22762, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-19708
+Predicting slide BD22-19708, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-21875
+Predicting slide BD22-21875, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-20487
+Predicting slide BD22-20487, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-20695
+Predicting slide BD22-20695, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-22466
+Predicting slide BD22-22466, the embedding shape is (635, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/atypical/BD22-20541
+Predicting slide BD22-20541, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-18629
+Predicting slide BD22-18629, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-19838
+Predicting slide BD22-19838, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-14805
+Predicting slide BD22-14805, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-16423
+Predicting slide BD22-16423, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-13030
+Predicting slide BD22-13030, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-14172
+Predicting slide BD22-14172, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-21373
+Predicting slide BD22-21373, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-17364
+Predicting slide BD22-17364, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-19384
+Predicting slide BD22-19384, the embedding shape is (999, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-18112
+Predicting slide BD22-18112, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-16686
+Predicting slide BD22-16686, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-19483
+Predicting slide BD22-19483, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-12707
+Predicting slide BD22-12707, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-13636
+Predicting slide BD22-13636, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-17354
+Predicting slide BD22-17354, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-19712
+Predicting slide BD22-19712, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-14049
+Predicting slide BD22-14049, the embedding shape is (1000, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-17361
+Predicting slide BD22-17361, the embedding shape is (956, 1000)
+/bigdata/projects/beidi/dataset/urine/Urine_divide/test/suspicious/BD22-14018
+Predicting slide BD22-14018, the embedding shape is (1000, 1000)
+Processing...
+Done!
+Processing...
+Done!
+Number of training graphs: 57
+Number of test graphs: 73
+Confusion Matrix:
+[[41  0]
+ [32  0]]
+Epoch: 000, Train Acc: 0.5088, Train Loss: 0.7219, Test Acc: 0.5616, Test Loss: 0.6759
+Confusion Matrix:
+[[33  8]
+ [ 6 26]]
+Epoch: 001, Train Acc: 0.5088, Train Loss: 0.6747, Test Acc: 0.8082, Test Loss: 0.6615
+Confusion Matrix:
+[[22 19]
+ [ 2 30]]
+Epoch: 002, Train Acc: 0.8947, Train Loss: 0.6377, Test Acc: 0.7123, Test Loss: 0.6495
+Confusion Matrix:
+[[18 23]
+ [ 2 30]]
+Epoch: 003, Train Acc: 0.8596, Train Loss: 0.6061, Test Acc: 0.6575, Test Loss: 0.6388
+Confusion Matrix:
+[[18 23]
+ [ 2 30]]
+Epoch: 004, Train Acc: 0.8421, Train Loss: 0.5781, Test Acc: 0.6575, Test Loss: 0.6264
+Confusion Matrix:
+[[19 22]
+ [ 2 30]]
+Epoch: 005, Train Acc: 0.8421, Train Loss: 0.5507, Test Acc: 0.6712, Test Loss: 0.6126
+Confusion Matrix:
+[[19 22]
+ [ 2 30]]
+Epoch: 006, Train Acc: 0.8596, Train Loss: 0.5211, Test Acc: 0.6712, Test Loss: 0.5977
+Confusion Matrix:
+[[21 20]
+ [ 2 30]]
+Epoch: 007, Train Acc: 0.8596, Train Loss: 0.4913, Test Acc: 0.6986, Test Loss: 0.5825
+Confusion Matrix:
+[[24 17]
+ [ 2 30]]
+Epoch: 008, Train Acc: 0.8772, Train Loss: 0.4596, Test Acc: 0.7397, Test Loss: 0.5672
+Confusion Matrix:
+[[27 14]
+ [ 3 29]]
+Epoch: 009, Train Acc: 0.8772, Train Loss: 0.4296, Test Acc: 0.7671, Test Loss: 0.5516
+Confusion Matrix:
+[[27 14]
+ [ 3 29]]
+Epoch: 010, Train Acc: 0.8772, Train Loss: 0.4026, Test Acc: 0.7671, Test Loss: 0.5359
+Confusion Matrix:
+[[27 14]
+ [ 3 29]]
+Epoch: 011, Train Acc: 0.8947, Train Loss: 0.3757, Test Acc: 0.7671, Test Loss: 0.5216
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 012, Train Acc: 0.8947, Train Loss: 0.3542, Test Acc: 0.7534, Test Loss: 0.5100
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 013, Train Acc: 0.8947, Train Loss: 0.3348, Test Acc: 0.7534, Test Loss: 0.5025
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 014, Train Acc: 0.8947, Train Loss: 0.3205, Test Acc: 0.7534, Test Loss: 0.4993
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 015, Train Acc: 0.8947, Train Loss: 0.3085, Test Acc: 0.7534, Test Loss: 0.5007
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 016, Train Acc: 0.8947, Train Loss: 0.2983, Test Acc: 0.7534, Test Loss: 0.5055
+Confusion Matrix:
+[[27 14]
+ [ 3 29]]
+Epoch: 017, Train Acc: 0.8947, Train Loss: 0.2952, Test Acc: 0.7671, Test Loss: 0.5122
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 018, Train Acc: 0.8947, Train Loss: 0.2890, Test Acc: 0.7534, Test Loss: 0.5178
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 019, Train Acc: 0.8947, Train Loss: 0.2881, Test Acc: 0.7534, Test Loss: 0.5224
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 020, Train Acc: 0.8947, Train Loss: 0.2890, Test Acc: 0.7534, Test Loss: 0.5261
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 021, Train Acc: 0.8947, Train Loss: 0.2901, Test Acc: 0.7534, Test Loss: 0.5285
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 022, Train Acc: 0.8947, Train Loss: 0.2957, Test Acc: 0.7534, Test Loss: 0.5325
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 023, Train Acc: 0.8947, Train Loss: 0.2970, Test Acc: 0.7534, Test Loss: 0.5369
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 024, Train Acc: 0.8947, Train Loss: 0.2989, Test Acc: 0.7534, Test Loss: 0.5428
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 025, Train Acc: 0.8947, Train Loss: 0.2998, Test Acc: 0.7534, Test Loss: 0.5504
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 026, Train Acc: 0.8947, Train Loss: 0.3004, Test Acc: 0.7534, Test Loss: 0.5563
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 027, Train Acc: 0.8947, Train Loss: 0.3017, Test Acc: 0.7534, Test Loss: 0.5580
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 028, Train Acc: 0.8947, Train Loss: 0.3013, Test Acc: 0.7534, Test Loss: 0.5546
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 029, Train Acc: 0.8947, Train Loss: 0.3006, Test Acc: 0.7534, Test Loss: 0.5497
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 030, Train Acc: 0.8947, Train Loss: 0.3015, Test Acc: 0.7534, Test Loss: 0.5492
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 031, Train Acc: 0.8947, Train Loss: 0.2964, Test Acc: 0.7534, Test Loss: 0.5486
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 032, Train Acc: 0.8947, Train Loss: 0.2989, Test Acc: 0.7534, Test Loss: 0.5480
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 033, Train Acc: 0.9123, Train Loss: 0.2989, Test Acc: 0.7534, Test Loss: 0.5475
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 034, Train Acc: 0.9123, Train Loss: 0.3022, Test Acc: 0.7534, Test Loss: 0.5471
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 035, Train Acc: 0.8947, Train Loss: 0.2983, Test Acc: 0.7534, Test Loss: 0.5467
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 036, Train Acc: 0.8947, Train Loss: 0.2991, Test Acc: 0.7534, Test Loss: 0.5463
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 037, Train Acc: 0.9123, Train Loss: 0.2978, Test Acc: 0.7534, Test Loss: 0.5461
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 038, Train Acc: 0.8947, Train Loss: 0.3008, Test Acc: 0.7534, Test Loss: 0.5459
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 039, Train Acc: 0.8947, Train Loss: 0.2972, Test Acc: 0.7534, Test Loss: 0.5456
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 040, Train Acc: 0.8947, Train Loss: 0.2978, Test Acc: 0.7534, Test Loss: 0.5453
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 041, Train Acc: 0.8947, Train Loss: 0.2957, Test Acc: 0.7534, Test Loss: 0.5448
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 042, Train Acc: 0.9123, Train Loss: 0.2953, Test Acc: 0.7534, Test Loss: 0.5443
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 043, Train Acc: 0.8947, Train Loss: 0.3017, Test Acc: 0.7534, Test Loss: 0.5436
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 044, Train Acc: 0.8947, Train Loss: 0.2980, Test Acc: 0.7534, Test Loss: 0.5430
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 045, Train Acc: 0.8947, Train Loss: 0.2918, Test Acc: 0.7534, Test Loss: 0.5422
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 046, Train Acc: 0.8947, Train Loss: 0.2937, Test Acc: 0.7534, Test Loss: 0.5414
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 047, Train Acc: 0.8947, Train Loss: 0.2970, Test Acc: 0.7534, Test Loss: 0.5407
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 048, Train Acc: 0.8947, Train Loss: 0.2940, Test Acc: 0.7534, Test Loss: 0.5398
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 049, Train Acc: 0.8947, Train Loss: 0.2944, Test Acc: 0.7534, Test Loss: 0.5389
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 050, Train Acc: 0.8947, Train Loss: 0.2943, Test Acc: 0.7534, Test Loss: 0.5380
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 051, Train Acc: 0.8947, Train Loss: 0.2916, Test Acc: 0.7534, Test Loss: 0.5370
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 052, Train Acc: 0.8947, Train Loss: 0.2921, Test Acc: 0.7534, Test Loss: 0.5362
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 053, Train Acc: 0.8947, Train Loss: 0.2925, Test Acc: 0.7534, Test Loss: 0.5351
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 054, Train Acc: 0.8947, Train Loss: 0.2910, Test Acc: 0.7534, Test Loss: 0.5341
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 055, Train Acc: 0.8947, Train Loss: 0.2892, Test Acc: 0.7534, Test Loss: 0.5331
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 056, Train Acc: 0.8947, Train Loss: 0.2870, Test Acc: 0.7534, Test Loss: 0.5319
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 057, Train Acc: 0.8947, Train Loss: 0.2885, Test Acc: 0.7534, Test Loss: 0.5309
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 058, Train Acc: 0.8947, Train Loss: 0.2917, Test Acc: 0.7534, Test Loss: 0.5299
+Confusion Matrix:
+[[27 14]
+ [ 4 28]]
+Epoch: 059, Train Acc: 0.8947, Train Loss: 0.2874, Test Acc: 0.7534, Test Loss: 0.5291
+Early stopping at 8th epoch, test AUC : 0.9141, test acc: 0.7859

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="tealab.ece.ubc.ca" id="810b2f88-8296-4077-84e8-76aeee5b0848" port="22" nameFormat="DESCRIPTIVE" username="beidiz" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="10.19.40.9" id="1eda5d7d-ad0c-42ee-a52d-ea1a279638eb" port="22" nameFormat="DESCRIPTIVE" username="tealab" useOpenSSHConfig="false" />
+    </configs>
+  </component>
+</project>
